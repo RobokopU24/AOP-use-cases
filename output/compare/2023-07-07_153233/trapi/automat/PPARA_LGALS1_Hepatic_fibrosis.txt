@@ -1,0 +1,1 @@
+{"LGALS1 -> biolink:regulates -> PPARA": 1, "LGALS1 -> biolink:genetic_association -> Hepatic fibrosis": 1}{"LGALS1 -> biolink:regulates -> PPARA": 1, "LGALS1 -> biolink:genetic_association -> Hepatic fibrosis": 1}

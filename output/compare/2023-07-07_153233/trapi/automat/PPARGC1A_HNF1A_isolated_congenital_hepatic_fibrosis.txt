@@ -1,0 +1,1 @@
+{"PPARGC1A -> biolink:regulates -> HNF1A": 1, "HNF1A -> biolink:contributes_to -> isolated congenital hepatic fibrosis": 1}{"PPARGC1A -> biolink:regulates -> HNF1A": 1, "HNF1A -> biolink:contributes_to -> isolated congenital hepatic fibrosis": 1}

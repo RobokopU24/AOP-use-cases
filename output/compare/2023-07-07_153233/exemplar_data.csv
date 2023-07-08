@@ -1,0 +1,41 @@
+﻿path,Max ESND,node0: `biolink:GeneOrGeneProduct`,edge0,node1: `biolink:BiologicalEntity`,edge1,node2: `biolink:DiseaseOrPhenotypicFeature`
+P1,184,PPARA,interacts with,ABCB4,genetic association,Hepatic fibrosis
+P1,280,PPARA,interacts with,F2,genetic association,Hepatic fibrosis
+P1,336,PPARA,directly physically interacts with,ALB,genetic association,Hepatic fibrosis
+P1,425,PPARA,interacts with,STAT1,genetic association,Hepatic fibrosis
+P1,432,PPARA,interacts with,AGT,genetic association,Hepatic fibrosis
+P1,646,PPARA,genetic association,liver disorder,subclass of,Hepatic fibrosis
+P1,1401,PPARA,contributes to,liver disorder,subclass of,Hepatic fibrosis
+P1,2820,PPARA,regulates,THBS1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,HGF,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,COL1A1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,F2R,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,TGFBR1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,VIM,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,ALB,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,AGT,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,CCL2,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,SPP1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,MMP2,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,RGN,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,PLAU,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,CCN2,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,ARRB1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,CNR2,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,ABCB4,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,REN,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,F2,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,STAT1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,ARNT,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,FGF2,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,NFE2L2,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,LGALS1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,NPC1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,FLT1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,CP,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,TGFB1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,CTNNB1,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,COL1A2,genetic association,Hepatic fibrosis
+P1,2820,PPARA,regulates,SMAD3,genetic association,Hepatic fibrosis
+P1,3787,PPARA,regulates,IL6,genetic association,Hepatic fibrosis
+P1,3895,PPARA,regulates,VEGFA,genetic association,Hepatic fibrosis

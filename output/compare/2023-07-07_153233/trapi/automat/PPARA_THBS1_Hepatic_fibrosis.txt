@@ -1,0 +1,1 @@
+{"THBS1 -> biolink:regulates -> PPARA": 1, "PPARA -> biolink:regulates -> THBS1": 1, "THBS1 -> biolink:genetic_association -> Hepatic fibrosis": 1}{"THBS1 -> biolink:regulates -> PPARA": 1, "PPARA -> biolink:regulates -> THBS1": 1, "THBS1 -> biolink:genetic_association -> Hepatic fibrosis": 1}

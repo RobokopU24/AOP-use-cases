@@ -1,0 +1,1 @@
+{"PPARGC1B -> biolink:regulates -> FLT1": 1, "FLT1 -> biolink:regulates -> PPARGC1B": 1, "FLT1 -> biolink:genetic_association -> Hepatic fibrosis": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> FLT1": 1}

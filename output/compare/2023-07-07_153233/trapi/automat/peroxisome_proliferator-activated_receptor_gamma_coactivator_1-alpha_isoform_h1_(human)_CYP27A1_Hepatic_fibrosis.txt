@@ -1,0 +1,1 @@
+{"CYP27A1 -> biolink:coexpressed_with -> peroxisome proliferator-activated receptor gamma coactivator 1-alpha isoform h1 (human)": 1, "peroxisome proliferator-activated receptor gamma coactivator 1-alpha isoform h1 (human) -> biolink:coexpressed_with -> CYP27A1": 1, "CYP27A1 -> biolink:genetic_association -> Hepatic fibrosis": 1}

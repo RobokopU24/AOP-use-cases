@@ -1,0 +1,1 @@
+{"NFE2L2 -> biolink:regulates -> PPARGC1B": 1, "PPARGC1B -> biolink:regulates -> NFE2L2": 1, "NFE2L2 -> biolink:genetic_association -> Hepatic fibrosis": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> NFE2L2": 1, "PPARGC1B -> biolink:occurs_together_in_literature_with -> NFE2L2": 1}

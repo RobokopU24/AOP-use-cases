@@ -1,0 +1,1 @@
+{"PPARA -> biolink:regulates -> IL6": 1, "IL6 -> biolink:regulates -> PPARA": 1, "IL6 -> biolink:genetic_association -> Hepatic fibrosis": 1}{"PPARA -> biolink:regulates -> IL6": 1, "IL6 -> biolink:regulates -> PPARA": 1, "IL6 -> biolink:genetic_association -> Hepatic fibrosis": 1}

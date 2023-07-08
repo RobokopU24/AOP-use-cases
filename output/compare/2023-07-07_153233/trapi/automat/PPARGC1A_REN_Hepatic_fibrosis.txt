@@ -1,0 +1,1 @@
+{"PPARGC1A -> biolink:regulates -> REN": 1, "REN -> biolink:genetic_association -> Hepatic fibrosis": 1}

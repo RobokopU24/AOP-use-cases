@@ -1,0 +1,1 @@
+{"ALB -> biolink:regulates -> PPARGC1B": 1, "ALB -> biolink:genetic_association -> Hepatic fibrosis": 1}

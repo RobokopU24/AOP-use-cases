@@ -1,0 +1,1 @@
+{"PPARA -> biolink:interacts_with -> F2": 1, "PPARA -> biolink:regulates -> F2": 1, "F2 -> biolink:genetic_association -> Hepatic fibrosis": 1}{"PPARA -> biolink:interacts_with -> F2": 1, "PPARA -> biolink:regulates -> F2": 1, "F2 -> biolink:genetic_association -> Hepatic fibrosis": 1}

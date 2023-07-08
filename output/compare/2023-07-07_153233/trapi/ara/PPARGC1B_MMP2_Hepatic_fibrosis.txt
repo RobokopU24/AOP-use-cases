@@ -1,0 +1,1 @@
+{"PPARGC1B -> biolink:regulates -> MMP2": 1, "MMP2 -> biolink:genetic_association -> Hepatic fibrosis": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> MMP2": 1, "PPARGC1B -> biolink:occurs_together_in_literature_with -> MMP2": 1}

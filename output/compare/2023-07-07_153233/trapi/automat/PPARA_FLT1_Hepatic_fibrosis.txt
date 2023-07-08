@@ -1,0 +1,1 @@
+{"PPARA -> biolink:regulates -> FLT1": 1, "FLT1 -> biolink:genetic_association -> Hepatic fibrosis": 1}{"PPARA -> biolink:regulates -> FLT1": 1, "FLT1 -> biolink:genetic_association -> Hepatic fibrosis": 1}

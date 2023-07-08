@@ -1,0 +1,1 @@
+{"PPARGC1A -> biolink:regulates -> HDAC2": 1, "HDAC2 -> biolink:genetic_association -> Hepatic fibrosis": 1}

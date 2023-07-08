@@ -1,0 +1,1 @@
+{"VEGFA -> biolink:regulates -> PPARGC1B": 1, "PPARGC1B -> biolink:regulates -> VEGFA": 1, "VEGFA -> biolink:genetic_association -> Hepatic fibrosis": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> VEGFA": 1, "PPARGC1B -> biolink:occurs_together_in_literature_with -> VEGFA": 1}
