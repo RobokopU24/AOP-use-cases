@@ -1,0 +1,58 @@
+﻿n00_name,n01_name,n02_name,Score
+PPARA,SMAD3,Hepatic fibrosis,0.426
+PPARA,TGFB1,Hepatic fibrosis,0.422
+PPARA,CCL2,Hepatic fibrosis,0.415
+PPARA,ALB,Hepatic fibrosis,0.406
+PPARA,HGF,Hepatic fibrosis,0.395
+PPARA,liver disorder,Hepatic fibrosis,0.383
+PPARA,IL6,Hepatic fibrosis,0.355
+PPARA,liver disorder,isolated congenital hepatic fibrosis,0.326
+PPARA,CCN2,Hepatic fibrosis,0.319
+PPARA,liver disorder,Periportal fibrosis,0.314
+PPARA,F2,Hepatic fibrosis,0.314
+PPARA,STAT1,Hepatic fibrosis,0.308
+PPARA,NFE2L2,Hepatic fibrosis,0.303
+PPARA,cirrhosis of liver,isolated congenital hepatic fibrosis,0.295
+PPARA,CP,Hepatic fibrosis,0.256
+PPARA,REN,Hepatic fibrosis,0.246
+PPARA,SPP1,Hepatic fibrosis,0.239
+PPARA,COL1A1,Hepatic fibrosis,0.239
+PPARA,VEGFA,Hepatic fibrosis,0.236
+PPARA,AGT,Hepatic fibrosis,0.235
+PPARA,AGT,isolated congenital hepatic fibrosis,0.231
+PPARA,TGFB1,isolated congenital hepatic fibrosis,0.222
+PPARA,THBS1,isolated congenital hepatic fibrosis,0.216
+PPARA,REN,isolated congenital hepatic fibrosis,0.211
+PPARA,PKHD1,isolated congenital hepatic fibrosis,0.204
+PPARA,THBS1,Hepatic fibrosis,0.198
+PPARA,ABCB4,Hepatic fibrosis,0.192
+peroxisome proliferator-activated receptor alpha isoform 1 (human),F2,Hepatic fibrosis,0.191
+peroxisome proliferator-activated receptor alpha isoform 1 (human),CCL2,Hepatic fibrosis,0.191
+PPARA,COL1A2,Hepatic fibrosis,0.182
+PPARA,PLAU,Hepatic fibrosis,0.176
+PPARA,F2R,Hepatic fibrosis,0.172
+PPARA,ARRB1,Hepatic fibrosis,0.171
+PPARA,FLT1,Hepatic fibrosis,0.166
+PPARA,FGF2,Hepatic fibrosis,0.165
+PPARA,ARNT,Hepatic fibrosis,0.161
+PPARA,LGALS1,Hepatic fibrosis,0.159
+peroxisome proliferator-activated receptor alpha isoform 1 (human),CP,Hepatic fibrosis,0.154
+PPARA,NPC1,Hepatic fibrosis,0.153
+PPARA,CNR2,Hepatic fibrosis,0.147
+PPARA,HNF1A,isolated congenital hepatic fibrosis,0.146
+PPARA,RGN,Hepatic fibrosis,0.146
+PPARA,NF1,isolated congenital hepatic fibrosis,0.144
+peroxisome proliferator-activated receptor alpha isoform 1 (human),AGT,isolated congenital hepatic fibrosis,0.142
+PPARA,VIM,Hepatic fibrosis,0.141
+peroxisome proliferator-activated receptor alpha isoform 1 (human),LOX,Hepatic fibrosis,0.134
+PPARA,liver disorder,Hepatic bridging fibrosis,0.125
+peroxisome proliferator-activated receptor alpha isoform 1 (human),AGT,Hepatic fibrosis,0.123
+peroxisome proliferator-activated receptor alpha isoform 1 (human),CYP27A1,Hepatic fibrosis,0.118
+peroxisome proliferator-activated receptor alpha isoform 1 (human),CYP2R1,Hepatic fibrosis,0.115
+peroxisome proliferator-activated receptor alpha isoform 1 (human),KRT18,Hepatic fibrosis,0.113
+peroxisome proliferator-activated receptor alpha isoform 1 (human),IGFBP1,Hepatic fibrosis,0.106
+peroxisome proliferator-activated receptor alpha isoform 1 (human),CNR2,Hepatic fibrosis,0.105
+peroxisome proliferator-activated receptor alpha isoform 1 (human),SERPINA6,Hepatic fibrosis,0.099
+PPARA,MMP2,Hepatic fibrosis,0.36
+PPARA,CTNNB1,Hepatic fibrosis,0.22
+PPARA,TGFBR1,Hepatic fibrosis,0.22
