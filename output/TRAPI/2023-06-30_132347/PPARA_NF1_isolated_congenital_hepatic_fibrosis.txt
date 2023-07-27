@@ -1,0 +1,1 @@
+{"PPARA -> biolink:regulates -> NF1": 1, "NF1 -> biolink:contributes_to -> isolated congenital hepatic fibrosis": 1, "isolated congenital hepatic fibrosis -> biolink:occurs_together_in_literature_with -> PPARA": 1, "isolated congenital hepatic fibrosis -> biolink:occurs_together_in_literature_with -> NF1": 1, "NF1 -> biolink:occurs_together_in_literature_with -> PPARA": 1}

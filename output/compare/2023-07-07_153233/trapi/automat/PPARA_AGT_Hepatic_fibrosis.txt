@@ -1,0 +1,1 @@
+{"AGT -> biolink:regulates -> PPARA": 1, "PPARA -> biolink:interacts_with -> AGT": 1, "PPARA -> biolink:regulates -> AGT": 1, "AGT -> biolink:genetic_association -> Hepatic fibrosis": 1}{"AGT -> biolink:regulates -> PPARA": 1, "PPARA -> biolink:interacts_with -> AGT": 1, "PPARA -> biolink:regulates -> AGT": 1, "AGT -> biolink:genetic_association -> Hepatic fibrosis": 1}

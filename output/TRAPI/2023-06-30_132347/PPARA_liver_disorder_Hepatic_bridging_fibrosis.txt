@@ -1,0 +1,1 @@
+{"PPARA -> biolink:contributes_to -> liver disorder": 1, "PPARA -> biolink:genetic_association -> liver disorder": 1, "Hepatic bridging fibrosis -> biolink:subclass_of -> liver disorder": 1, "liver disorder -> biolink:occurs_together_in_literature_with -> PPARA": 1, "Hepatic bridging fibrosis -> biolink:occurs_together_in_literature_with -> liver disorder": 1}

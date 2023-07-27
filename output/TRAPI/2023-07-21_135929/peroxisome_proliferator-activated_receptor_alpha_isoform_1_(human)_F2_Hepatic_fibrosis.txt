@@ -1,0 +1,1 @@
+{"peroxisome proliferator-activated receptor alpha isoform 1 (human) -> biolink:coexpressed_with -> F2": 1, "F2 -> biolink:coexpressed_with -> peroxisome proliferator-activated receptor alpha isoform 1 (human)": 1, "F2 -> biolink:genetic_association -> Hepatic fibrosis": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> F2": 1}

@@ -1,0 +1,1 @@
+{"PPARGC1B -> biolink:regulates -> ARNT": 1, "ARNT -> biolink:genetic_association -> Hepatic fibrosis": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> ARNT": 1}

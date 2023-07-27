@@ -1,0 +1,1 @@
+{"PPARA -> biolink:regulates -> CP": 1, "CP -> biolink:regulates -> PPARA": 1, "CP -> biolink:genetic_association -> Hepatic fibrosis": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> CP": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> PPARA": 1, "CP -> biolink:occurs_together_in_literature_with -> PPARA": 1}

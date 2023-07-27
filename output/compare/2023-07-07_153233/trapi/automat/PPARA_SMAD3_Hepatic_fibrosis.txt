@@ -1,0 +1,1 @@
+{"PPARA -> biolink:regulates -> SMAD3": 1, "SMAD3 -> biolink:regulates -> PPARA": 1, "SMAD3 -> biolink:genetic_association -> Hepatic fibrosis": 1}{"PPARA -> biolink:regulates -> SMAD3": 1, "SMAD3 -> biolink:regulates -> PPARA": 1, "SMAD3 -> biolink:genetic_association -> Hepatic fibrosis": 1}

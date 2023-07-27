@@ -1,0 +1,1 @@
+{"THBS1 -> biolink:regulates -> PPARA": 1, "PPARA -> biolink:regulates -> THBS1": 1, "THBS1 -> biolink:genetic_association -> Hepatic fibrosis": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> PPARA": 1, "PPARA -> biolink:occurs_together_in_literature_with -> THBS1": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> THBS1": 1}

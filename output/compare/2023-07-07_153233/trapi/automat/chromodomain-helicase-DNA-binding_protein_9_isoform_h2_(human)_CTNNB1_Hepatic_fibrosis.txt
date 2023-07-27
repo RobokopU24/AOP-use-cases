@@ -1,0 +1,1 @@
+{"CTNNB1 -> biolink:coexpressed_with -> chromodomain-helicase-DNA-binding protein 9 isoform h2 (human)": 1, "chromodomain-helicase-DNA-binding protein 9 isoform h2 (human) -> biolink:coexpressed_with -> CTNNB1": 1, "CTNNB1 -> biolink:genetic_association -> Hepatic fibrosis": 1}

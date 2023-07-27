@@ -1,0 +1,1 @@
+{"CCN2 -> biolink:regulates -> PPARA": 1, "PPARA -> biolink:regulates -> CCN2": 1, "CCN2 -> biolink:genetic_association -> Hepatic fibrosis": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> PPARA": 1, "Hepatic fibrosis -> biolink:occurs_together_in_literature_with -> CCN2": 1, "CCN2 -> biolink:occurs_together_in_literature_with -> PPARA": 1}

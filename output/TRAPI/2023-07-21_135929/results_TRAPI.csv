@@ -1,0 +1,58 @@
+n00,n00_name,n01,n01_name,n02,n02_name
+NCBIGene:5465,PPARA,NCBIGene:4088,SMAD3,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:7040,TGFB1,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:6347,CCL2,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:213,ALB,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:3082,HGF,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,MONDO:0005154,liver disorder,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:4313,MMP2,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:3569,IL6,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,MONDO:0005154,liver disorder,MONDO:0018840,isolated congenital hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:1490,CCN2,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:2147,F2,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,MONDO:0005154,liver disorder,HP:0001405,Periportal fibrosis
+NCBIGene:5465,PPARA,NCBIGene:6772,STAT1,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:4780,NFE2L2,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,MONDO:0005155,cirrhosis of liver,MONDO:0018840,isolated congenital hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:1356,CP,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:5972,REN,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:1277,COL1A1,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:6696,SPP1,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:7422,VEGFA,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:183,AGT,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:183,AGT,MONDO:0018840,isolated congenital hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:7040,TGFB1,MONDO:0018840,isolated congenital hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:7046,TGFBR1,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:1499,CTNNB1,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:7057,THBS1,MONDO:0018840,isolated congenital hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:5972,REN,MONDO:0018840,isolated congenital hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:5314,PKHD1,MONDO:0018840,isolated congenital hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:7057,THBS1,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:5244,ABCB4,HP:0001395,Hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:6347,CCL2,HP:0001395,Hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:2147,F2,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:1278,COL1A2,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:5328,PLAU,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:2149,F2R,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:408,ARRB1,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:2321,FLT1,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:2247,FGF2,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:405,ARNT,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:3956,LGALS1,HP:0001395,Hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:1356,CP,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:4864,NPC1,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:1269,CNR2,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:9104,RGN,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:6927,HNF1A,MONDO:0018840,isolated congenital hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:4763,NF1,MONDO:0018840,isolated congenital hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:183,AGT,MONDO:0018840,isolated congenital hepatic fibrosis
+NCBIGene:5465,PPARA,NCBIGene:7431,VIM,HP:0001395,Hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:4015,LOX,HP:0001395,Hepatic fibrosis
+NCBIGene:5465,PPARA,MONDO:0005154,liver disorder,HP:0012852,Hepatic bridging fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:183,AGT,HP:0001395,Hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:1593,CYP27A1,HP:0001395,Hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:120227,CYP2R1,HP:0001395,Hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:3875,KRT18,HP:0001395,Hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:3484,IGFBP1,HP:0001395,Hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:1269,CNR2,HP:0001395,Hepatic fibrosis
+UniProtKB:Q07869-1,peroxisome proliferator-activated receptor alpha isoform 1 (human),NCBIGene:866,SERPINA6,HP:0001395,Hepatic fibrosis

@@ -1,0 +1,62 @@
+Common pathways:
+PPARA|COL1A1|Hepatic fibrosis
+PPARA|HGF|Hepatic fibrosis
+PPARA|AGT|isolated congenital hepatic fibrosis
+PPARA|liver disorder|Periportal fibrosis
+PPARA|TGFB1|Hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|CNR2|Hepatic fibrosis
+PPARA|CCN2|Hepatic fibrosis
+PPARA|liver disorder|Hepatic bridging fibrosis
+PPARA|NFE2L2|Hepatic fibrosis
+PPARA|THBS1|isolated congenital hepatic fibrosis
+PPARA|HNF1A|isolated congenital hepatic fibrosis
+PPARA|NPC1|Hepatic fibrosis
+PPARA|RGN|Hepatic fibrosis
+PPARA|MMP2|Hepatic fibrosis
+PPARA|TGFB1|isolated congenital hepatic fibrosis
+PPARA|REN|isolated congenital hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|AGT|Hepatic fibrosis
+PPARA|PLAU|Hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|CP|Hepatic fibrosis
+PPARA|THBS1|Hepatic fibrosis
+PPARA|REN|Hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|SERPINA6|Hepatic fibrosis
+PPARA|CTNNB1|Hepatic fibrosis
+PPARA|cirrhosis of liver|isolated congenital hepatic fibrosis
+PPARA|ARNT|Hepatic fibrosis
+PPARA|CNR2|Hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|CYP2R1|Hepatic fibrosis
+PPARA|ABCB4|Hepatic fibrosis
+PPARA|IL6|Hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|F2|Hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|KRT18|Hepatic fibrosis
+PPARA|liver disorder|isolated congenital hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|CYP27A1|Hepatic fibrosis
+PPARA|LGALS1|Hepatic fibrosis
+PPARA|CP|Hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|IGFBP1|Hepatic fibrosis
+PPARA|SMAD3|Hepatic fibrosis
+PPARA|STAT1|Hepatic fibrosis
+PPARA|AGT|Hepatic fibrosis
+PPARA|PKHD1|isolated congenital hepatic fibrosis
+PPARA|SPP1|Hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|AGT|isolated congenital hepatic fibrosis
+PPARA|F2R|Hepatic fibrosis
+PPARA|NF1|isolated congenital hepatic fibrosis
+PPARA|TGFBR1|Hepatic fibrosis
+PPARA|liver disorder|Hepatic fibrosis
+PPARA|CCL2|Hepatic fibrosis
+PPARA|VEGFA|Hepatic fibrosis
+PPARA|FGF2|Hepatic fibrosis
+PPARA|VIM|Hepatic fibrosis
+PPARA|COL1A2|Hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|LOX|Hepatic fibrosis
+PPARA|F2|Hepatic fibrosis
+peroxisome proliferator-activated receptor alpha isoform 1 (human)|CCL2|Hepatic fibrosis
+PPARA|ARRB1|Hepatic fibrosis
+PPARA|ALB|Hepatic fibrosis
+PPARA|FLT1|Hepatic fibrosis
+
+ARA (PPARA-Hepatic Fibrosis) only:
+
+Question-Builder (Biological Entity) only:
