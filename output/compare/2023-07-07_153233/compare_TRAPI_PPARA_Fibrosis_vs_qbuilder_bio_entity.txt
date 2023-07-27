@@ -57,49 +57,6 @@ PPARA|ARRB1|Hepatic fibrosis
 PPARA|ALB|Hepatic fibrosis
 PPARA|FLT1|Hepatic fibrosis
 
-ARA only:
-PPARGC1A|SPP1|Hepatic fibrosis
-PPARGC1B|AGT|Hepatic fibrosis
-peroxisome proliferator-activated receptor gamma coactivator 1-alpha isoform h1 (human)|CYP27A1|Hepatic fibrosis
-PPARGC1A|FBN1|isolated congenital hepatic fibrosis
-PPARGC1A|STAT1|Hepatic fibrosis
-PPARGC1B|CCL2|Hepatic fibrosis
-PPARGC1A|AGT|isolated congenital hepatic fibrosis
-peroxisome proliferator-activated receptor gamma coactivator 1-alpha isoform h1 (human)|AGT|Hepatic fibrosis
-PPARGC1A|ARNT|Hepatic fibrosis
-PPARGC1A|REN|isolated congenital hepatic fibrosis
-PPARA|liver disorder|fibrotic liver disease
-PPARGC1A|AGT|Hepatic fibrosis
-CHD9|AGT|Hepatic fibrosis
-peroxisome proliferator-activated receptor gamma coactivator 1-alpha isoform h1 (human)|VIM|Hepatic fibrosis
-PPARGC1B|IL6|Hepatic fibrosis
-PPARGC1B|REN|Hepatic fibrosis
-PPARGC1A|IL6|Hepatic fibrosis
-PPARGC1A|MMP2|Hepatic fibrosis
-PPARGC1A|CCL2|Hepatic fibrosis
-PPARGC1B|VEGFA|Hepatic fibrosis
-PPARGC1B|AGT|isolated congenital hepatic fibrosis
-PPARGC1B|FLT1|Hepatic fibrosis
-PPARA|liver disorder|Liver Disease Associated with Cystic Fibrosis
-PPARGC1A|HDAC2|Hepatic fibrosis
-peroxisome proliferator-activated receptor gamma coactivator 1-alpha isoform h1 (human)|AGT|isolated congenital hepatic fibrosis
-PPARGC1B|SPP1|Hepatic fibrosis
-PPARGC1A|FBN1|Hepatic fibrosis
-PPARGC1B|STAT1|Hepatic fibrosis
-PPARGC1B|ARNT|Hepatic fibrosis
-chromodomain-helicase-DNA-binding protein 9 isoform h2 (human)|CTNNB1|Hepatic fibrosis
-PPARGC1A|REN|Hepatic fibrosis
-PPARGC1A|HNF1A|isolated congenital hepatic fibrosis
-PPARGC1B|ALB|Hepatic fibrosis
-PPARGC1A|ALB|Hepatic fibrosis
-PPARGC1B|REN|isolated congenital hepatic fibrosis
-PPARGC1A|VEGFA|Hepatic fibrosis
-PPARGC1B|MMP2|Hepatic fibrosis
-CHD9|AGT|isolated congenital hepatic fibrosis
-PPARGC1A|NFE2L2|Hepatic fibrosis
-CHD9|ABCB4|Hepatic fibrosis
-PPARGC1B|HNF1A|isolated congenital hepatic fibrosis
-PPARGC1A|FLT1|Hepatic fibrosis
-PPARGC1B|NFE2L2|Hepatic fibrosis
+TRAPI (PPARA-Hepatic Fibrosis) only:
 
 Question-Builder (Biological Entity) only:
