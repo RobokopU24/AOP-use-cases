@@ -1,1 +1,0 @@
-{"PPARGC1B -> biolink:affects -> AGT": 1, "AGT -> biolink:contributes_to -> isolated congenital hepatic fibrosis": 1}{"PPARGC1B -> biolink:affects -> AGT": 1, "AGT -> biolink:contributes_to -> isolated congenital hepatic fibrosis": 1}{"PPARGC1B -> biolink:affects -> AGT": 1, "AGT -> biolink:contributes_to -> isolated congenital hepatic fibrosis": 1}
