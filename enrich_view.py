@@ -95,8 +95,7 @@ class Data(param.Parameterized):
                 names.append(self.response["message"]["knowledge_graph"]["nodes"][identifier]["name"])
             except:
                 names.append(identifier)
-            # scores.append(result["analyses"][0]["score"])
-            scores.append(result["score"])
+            scores.append(result["analyses"][0]["score"])
         df = pd.DataFrame({"name": names, "score": scores})
         df.sort_values(by="score", ascending=False, inplace=True)
         self.results = df
