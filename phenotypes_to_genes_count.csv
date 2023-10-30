@@ -1,0 +1,1646 @@
+n02,n02_name,n01,n01_name,Count,number_genes
+EFO:0004339,body height,NCBIGene:4088,SMAD3,18,35
+EFO:0004339,body height,NCBIGene:7040,TGFB1,15,35
+EFO:0004339,body height,NCBIGene:1535,CYBA,12,35
+EFO:0004339,body height,NCBIGene:5244,ABCB4,9,35
+EFO:0004339,body height,NCBIGene:7046,TGFBR1,8,35
+EFO:0004339,body height,NCBIGene:6772,STAT1,7,35
+EFO:0004339,body height,NCBIGene:2247,FGF2,7,35
+EFO:0004339,body height,NCBIGene:120227,CYP2R1,6,35
+EFO:0004339,body height,NCBIGene:1593,CYP27A1,6,35
+EFO:0004339,body height,NCBIGene:1490,CCN2,5,35
+EFO:0004339,body height,NCBIGene:1499,CTNNB1,5,35
+EFO:0004339,body height,NCBIGene:7422,VEGFA,5,35
+EFO:0004339,body height,NCBIGene:1277,COL1A1,4,35
+EFO:0004339,body height,NCBIGene:405,ARNT,3,35
+EFO:0004339,body height,NCBIGene:408,ARRB1,3,35
+EFO:0004339,body height,NCBIGene:4313,MMP2,3,35
+EFO:0004339,body height,NCBIGene:4763,NF1,3,35
+EFO:0004339,body height,NCBIGene:2321,FLT1,3,35
+EFO:0004339,body height,NCBIGene:6696,SPP1,3,35
+EFO:0004339,body height,NCBIGene:4864,NPC1,3,35
+EFO:0004339,body height,NCBIGene:3569,IL6,2,35
+EFO:0004339,body height,NCBIGene:1278,COL1A2,2,35
+EFO:0004339,body height,NCBIGene:5314,PKHD1,2,35
+EFO:0004339,body height,NCBIGene:213,ALB,2,35
+EFO:0004339,body height,NCBIGene:4780,NFE2L2,2,35
+EFO:0004339,body height,NCBIGene:5972,REN,2,35
+EFO:0004339,body height,NCBIGene:5328,PLAU,2,35
+EFO:0004339,body height,NCBIGene:1356,CP,2,35
+EFO:0004339,body height,NCBIGene:6927,HNF1A,1,35
+EFO:0004339,body height,NCBIGene:3956,LGALS1,1,35
+EFO:0004339,body height,NCBIGene:183,AGT,1,35
+EFO:0004339,body height,NCBIGene:2149,F2R,1,35
+EFO:0004339,body height,NCBIGene:2147,F2,1,35
+EFO:0004339,body height,NCBIGene:7057,THBS1,1,35
+EFO:0004339,body height,NCBIGene:3082,HGF,1,35
+EFO:0004747,protein measurement,NCBIGene:183,AGT,15,18
+EFO:0004747,protein measurement,NCBIGene:405,ARNT,15,18
+EFO:0004747,protein measurement,NCBIGene:4763,NF1,9,18
+EFO:0004747,protein measurement,NCBIGene:5328,PLAU,4,18
+EFO:0004747,protein measurement,NCBIGene:213,ALB,2,18
+EFO:0004747,protein measurement,NCBIGene:1717,DHCR7,2,18
+EFO:0004747,protein measurement,NCBIGene:7040,TGFB1,2,18
+EFO:0004747,protein measurement,NCBIGene:2149,F2R,2,18
+EFO:0004747,protein measurement,NCBIGene:408,ARRB1,2,18
+EFO:0004747,protein measurement,NCBIGene:7422,VEGFA,2,18
+EFO:0004747,protein measurement,NCBIGene:7431,VIM,2,18
+EFO:0004747,protein measurement,NCBIGene:6927,HNF1A,1,18
+EFO:0004747,protein measurement,NCBIGene:6347,CCL2,1,18
+EFO:0004747,protein measurement,NCBIGene:1277,COL1A1,1,18
+EFO:0004747,protein measurement,NCBIGene:6772,STAT1,1,18
+EFO:0004747,protein measurement,NCBIGene:1499,CTNNB1,1,18
+EFO:0004747,protein measurement,NCBIGene:4864,NPC1,1,18
+EFO:0004747,protein measurement,NCBIGene:1535,CYBA,1,18
+EFO:0007937,blood protein measurement,NCBIGene:6347,CCL2,10,16
+EFO:0007937,blood protein measurement,NCBIGene:7040,TGFB1,7,16
+EFO:0007937,blood protein measurement,NCBIGene:5328,PLAU,5,16
+EFO:0007937,blood protein measurement,NCBIGene:2147,F2,5,16
+EFO:0007937,blood protein measurement,NCBIGene:183,AGT,4,16
+EFO:0007937,blood protein measurement,NCBIGene:213,ALB,3,16
+EFO:0007937,blood protein measurement,NCBIGene:405,ARNT,3,16
+EFO:0007937,blood protein measurement,NCBIGene:1490,CCN2,3,16
+EFO:0007937,blood protein measurement,NCBIGene:7046,TGFBR1,3,16
+EFO:0007937,blood protein measurement,NCBIGene:5244,ABCB4,2,16
+EFO:0007937,blood protein measurement,NCBIGene:6927,HNF1A,2,16
+EFO:0007937,blood protein measurement,NCBIGene:1535,CYBA,1,16
+EFO:0007937,blood protein measurement,NCBIGene:5314,PKHD1,1,16
+EFO:0007937,blood protein measurement,NCBIGene:3082,HGF,1,16
+EFO:0007937,blood protein measurement,NCBIGene:6696,SPP1,1,16
+EFO:0007937,blood protein measurement,NCBIGene:2149,F2R,1,16
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:6927,HNF1A,12,15
+EFO:0004530,triglyceride measurement,NCBIGene:7422,VEGFA,12,15
+EFO:0004530,triglyceride measurement,NCBIGene:1593,CYP27A1,11,15
+EFO:0004530,triglyceride measurement,NCBIGene:405,ARNT,11,15
+EFO:0004530,triglyceride measurement,NCBIGene:4864,NPC1,10,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:4864,NPC1,9,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:405,ARNT,8,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:7422,VEGFA,6,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:2147,F2,5,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:7040,TGFB1,5,15
+EFO:0004530,triglyceride measurement,NCBIGene:7040,TGFB1,4,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:120227,CYP2R1,3,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:1593,CYP27A1,2,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:4088,SMAD3,2,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:4780,NFE2L2,2,15
+EFO:0004530,triglyceride measurement,NCBIGene:120227,CYP2R1,2,15
+EFO:0004530,triglyceride measurement,NCBIGene:6927,HNF1A,2,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:7431,VIM,1,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:183,AGT,1,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:4763,NF1,1,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:5314,PKHD1,1,15
+EFO:0004612,high density lipoprotein cholesterol measurement,NCBIGene:4313,MMP2,1,15
+EFO:0004530,triglyceride measurement,NCBIGene:2321,FLT1,1,15
+EFO:0004530,triglyceride measurement,NCBIGene:4088,SMAD3,1,15
+EFO:0004530,triglyceride measurement,NCBIGene:3082,HGF,1,15
+EFO:0004530,triglyceride measurement,NCBIGene:4763,NF1,1,15
+EFO:0004530,triglyceride measurement,NCBIGene:7431,VIM,1,15
+EFO:0004530,triglyceride measurement,NCBIGene:2147,F2,1,15
+EFO:0004530,triglyceride measurement,NCBIGene:183,AGT,1,15
+EFO:0004530,triglyceride measurement,NCBIGene:408,ARRB1,1,15
+EFO:0009270,heel bone mineral density,NCBIGene:1277,COL1A1,19,14
+EFO:0009270,heel bone mineral density,NCBIGene:7040,TGFB1,12,14
+EFO:0009270,heel bone mineral density,NCBIGene:4088,SMAD3,8,14
+EFO:0006335,systolic blood pressure,NCBIGene:183,AGT,6,14
+EFO:0009270,heel bone mineral density,NCBIGene:6696,SPP1,4,14
+EFO:0009270,heel bone mineral density,NCBIGene:4313,MMP2,3,14
+EFO:0009270,heel bone mineral density,NCBIGene:405,ARNT,3,14
+EFO:0006335,systolic blood pressure,NCBIGene:4088,SMAD3,2,14
+EFO:0006335,systolic blood pressure,NCBIGene:7422,VEGFA,2,14
+EFO:0006335,systolic blood pressure,NCBIGene:7040,TGFB1,2,14
+EFO:0006335,systolic blood pressure,NCBIGene:5972,REN,2,14
+EFO:0006335,systolic blood pressure,NCBIGene:3956,LGALS1,2,14
+EFO:0009270,heel bone mineral density,NCBIGene:7422,VEGFA,2,14
+EFO:0009270,heel bone mineral density,NCBIGene:4763,NF1,2,14
+EFO:0009270,heel bone mineral density,NCBIGene:2147,F2,2,14
+EFO:0009270,heel bone mineral density,NCBIGene:1278,COL1A2,2,14
+EFO:0006335,systolic blood pressure,NCBIGene:2147,F2,1,14
+EFO:0006335,systolic blood pressure,NCBIGene:6772,STAT1,1,14
+EFO:0006335,systolic blood pressure,NCBIGene:2321,FLT1,1,14
+EFO:0006335,systolic blood pressure,NCBIGene:1535,CYBA,1,14
+EFO:0006335,systolic blood pressure,NCBIGene:5328,PLAU,1,14
+EFO:0006335,systolic blood pressure,NCBIGene:4780,NFE2L2,1,14
+EFO:0006335,systolic blood pressure,NCBIGene:1499,CTNNB1,1,14
+EFO:0006335,systolic blood pressure,NCBIGene:6927,HNF1A,1,14
+EFO:0009270,heel bone mineral density,NCBIGene:1535,CYBA,1,14
+EFO:0009270,heel bone mineral density,NCBIGene:5328,PLAU,1,14
+EFO:0009270,heel bone mineral density,NCBIGene:1499,CTNNB1,1,14
+EFO:0009270,heel bone mineral density,NCBIGene:1593,CYP27A1,1,14
+EFO:0004340,body mass index,NCBIGene:5314,PKHD1,17,13
+EFO:0004340,body mass index,NCBIGene:4864,NPC1,11,13
+EFO:0004526,mean corpuscular volume,NCBIGene:6927,HNF1A,10,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:7431,VIM,5,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:405,ARNT,4,13
+EFO:0004526,mean corpuscular volume,NCBIGene:7040,TGFB1,4,13
+EFO:0004340,body mass index,NCBIGene:2147,F2,3,13
+EFO:0004340,body mass index,NCBIGene:1499,CTNNB1,3,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:1535,CYBA,3,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:3569,IL6,3,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:5244,ABCB4,3,13
+EFO:0004340,body mass index,NCBIGene:7422,VEGFA,2,13
+EFO:0004340,body mass index,NCBIGene:5328,PLAU,2,13
+EFO:0004340,body mass index,NCBIGene:4088,SMAD3,2,13
+EFO:0004340,body mass index,NCBIGene:4763,NF1,2,13
+EFO:0004340,body mass index,NCBIGene:1593,CYP27A1,2,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:7422,VEGFA,2,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:4864,NPC1,2,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:4763,NF1,2,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:7040,TGFB1,2,13
+EFO:0004526,mean corpuscular volume,NCBIGene:1535,CYBA,2,13
+EFO:0004526,mean corpuscular volume,NCBIGene:2321,FLT1,2,13
+EFO:0004526,mean corpuscular volume,NCBIGene:1277,COL1A1,2,13
+EFO:0004526,mean corpuscular volume,NCBIGene:3956,LGALS1,2,13
+EFO:0004340,body mass index,NCBIGene:1356,CP,1,13
+EFO:0004340,body mass index,NCBIGene:2247,FGF2,1,13
+EFO:0004340,body mass index,NCBIGene:6696,SPP1,1,13
+EFO:0004340,body mass index,NCBIGene:3956,LGALS1,1,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:2149,F2R,1,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:4088,SMAD3,1,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:6927,HNF1A,1,13
+EFO:0004736,aspartate aminotransferase measurement,NCBIGene:5314,PKHD1,1,13
+EFO:0004526,mean corpuscular volume,NCBIGene:120227,CYP2R1,1,13
+EFO:0004526,mean corpuscular volume,NCBIGene:1356,CP,1,13
+EFO:0004526,mean corpuscular volume,NCBIGene:1269,CNR2,1,13
+EFO:0004526,mean corpuscular volume,NCBIGene:7431,VIM,1,13
+EFO:0004526,mean corpuscular volume,NCBIGene:7422,VEGFA,1,13
+EFO:0004526,mean corpuscular volume,NCBIGene:4864,NPC1,1,13
+EFO:0004526,mean corpuscular volume,NCBIGene:5244,ABCB4,1,13
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:7422,VEGFA,25,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:6927,HNF1A,14,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:6927,HNF1A,14,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:4088,SMAD3,12,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:7422,VEGFA,9,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:4763,NF1,9,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:4763,NF1,7,12
+MONDO:0100096,COVID-19,NCBIGene:6347,CCL2,6,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:3082,HGF,5,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:5328,PLAU,4,12
+MONDO:0100096,COVID-19,NCBIGene:1717,DHCR7,4,12
+MONDO:0100096,COVID-19,NCBIGene:120227,CYP2R1,4,12
+MONDO:0100096,COVID-19,NCBIGene:3956,LGALS1,3,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:7422,VEGFA,3,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:7040,TGFB1,3,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:5314,PKHD1,2,12
+MONDO:0100096,COVID-19,NCBIGene:3569,IL6,2,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:4780,NFE2L2,2,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:4864,NPC1,2,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:4864,NPC1,2,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:6927,HNF1A,2,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:2149,F2R,2,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:7040,TGFB1,1,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:1535,CYBA,1,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:4088,SMAD3,1,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:405,ARNT,1,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:2147,F2,1,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:4864,NPC1,1,12
+MONDO:0005148,type 2 diabetes mellitus,NCBIGene:2247,FGF2,1,12
+MONDO:0100096,COVID-19,NCBIGene:7422,VEGFA,1,12
+MONDO:0100096,COVID-19,NCBIGene:6927,HNF1A,1,12
+MONDO:0100096,COVID-19,NCBIGene:7040,TGFB1,1,12
+MONDO:0100096,COVID-19,NCBIGene:6772,STAT1,1,12
+MONDO:0100096,COVID-19,NCBIGene:1269,CNR2,1,12
+MONDO:0100096,COVID-19,NCBIGene:7046,TGFBR1,1,12
+MONDO:0100096,COVID-19,NCBIGene:1535,CYBA,1,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:1593,CYP27A1,1,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:4088,SMAD3,1,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:120227,CYP2R1,1,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:7046,TGFBR1,1,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:5314,PKHD1,1,12
+EFO:0004696,sex hormone-binding globulin measurement,NCBIGene:405,ARNT,1,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:1535,CYBA,1,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:2321,FLT1,1,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:2247,FGF2,1,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:4780,NFE2L2,1,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:7046,TGFBR1,1,12
+EFO:0007789,BMI-adjusted waist circumference,NCBIGene:1593,CYP27A1,1,12
+EFO:0007986,reticulocyte count,NCBIGene:1269,CNR2,50,11
+MONDO:0005010,coronary artery disorder,NCBIGene:7040,TGFB1,19,11
+EFO:0004309,platelet count,NCBIGene:4763,NF1,13,11
+MONDO:0005010,coronary artery disorder,NCBIGene:2321,FLT1,11,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:1269,CNR2,11,11
+EFO:0004309,platelet count,NCBIGene:2149,F2R,10,11
+EFO:0007986,reticulocyte count,NCBIGene:1535,CYBA,10,11
+EFO:0007986,reticulocyte count,NCBIGene:6772,STAT1,10,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:6772,STAT1,9,11
+EFO:0004980,appendicular lean mass,NCBIGene:2321,FLT1,8,11
+EFO:0007986,reticulocyte count,NCBIGene:7422,VEGFA,7,11
+MONDO:0005010,coronary artery disorder,NCBIGene:6927,HNF1A,6,11
+MONDO:0005010,coronary artery disorder,NCBIGene:4088,SMAD3,6,11
+EFO:0004980,appendicular lean mass,NCBIGene:5328,PLAU,6,11
+EFO:0006336,diastolic blood pressure,NCBIGene:183,AGT,5,11
+EFO:0006336,diastolic blood pressure,NCBIGene:1593,CYP27A1,5,11
+EFO:0006336,diastolic blood pressure,NCBIGene:7422,VEGFA,5,11
+EFO:0004309,platelet count,NCBIGene:1535,CYBA,5,11
+EFO:0004309,platelet count,NCBIGene:405,ARNT,5,11
+EFO:0004980,appendicular lean mass,NCBIGene:6927,HNF1A,5,11
+EFO:0006336,diastolic blood pressure,NCBIGene:5314,PKHD1,4,11
+EFO:0007986,reticulocyte count,NCBIGene:2149,F2R,4,11
+EFO:0004464,brain measurement,NCBIGene:2149,F2R,4,11
+EFO:0004464,brain measurement,NCBIGene:7422,VEGFA,4,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:1535,CYBA,4,11
+MONDO:0005010,coronary artery disorder,NCBIGene:183,AGT,3,11
+EFO:0004309,platelet count,NCBIGene:7040,TGFB1,3,11
+EFO:0004309,platelet count,NCBIGene:3569,IL6,3,11
+EFO:0004309,platelet count,NCBIGene:7431,VIM,3,11
+EFO:0007986,reticulocyte count,NCBIGene:4864,NPC1,3,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:2149,F2R,3,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:1277,COL1A1,3,11
+MONDO:0005010,coronary artery disorder,NCBIGene:7422,VEGFA,2,11
+EFO:0006336,diastolic blood pressure,NCBIGene:7040,TGFB1,2,11
+EFO:0006336,diastolic blood pressure,NCBIGene:4088,SMAD3,2,11
+EFO:0004309,platelet count,NCBIGene:1277,COL1A1,2,11
+EFO:0004309,platelet count,NCBIGene:7422,VEGFA,2,11
+EFO:0007986,reticulocyte count,NCBIGene:1593,CYP27A1,2,11
+EFO:0007986,reticulocyte count,NCBIGene:405,ARNT,2,11
+EFO:0004464,brain measurement,NCBIGene:3956,LGALS1,2,11
+EFO:0004464,brain measurement,NCBIGene:5314,PKHD1,2,11
+EFO:0004464,brain measurement,NCBIGene:7057,THBS1,2,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:4864,NPC1,2,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:7422,VEGFA,2,11
+EFO:0004980,appendicular lean mass,NCBIGene:4088,SMAD3,2,11
+EFO:0004980,appendicular lean mass,NCBIGene:1278,COL1A2,2,11
+MONDO:0005010,coronary artery disorder,NCBIGene:405,ARNT,1,11
+MONDO:0005010,coronary artery disorder,NCBIGene:408,ARRB1,1,11
+MONDO:0005010,coronary artery disorder,NCBIGene:5314,PKHD1,1,11
+MONDO:0005010,coronary artery disorder,NCBIGene:6772,STAT1,1,11
+MONDO:0005010,coronary artery disorder,NCBIGene:4864,NPC1,1,11
+EFO:0006336,diastolic blood pressure,NCBIGene:2147,F2,1,11
+EFO:0006336,diastolic blood pressure,NCBIGene:1535,CYBA,1,11
+EFO:0006336,diastolic blood pressure,NCBIGene:2321,FLT1,1,11
+EFO:0006336,diastolic blood pressure,NCBIGene:6927,HNF1A,1,11
+EFO:0006336,diastolic blood pressure,NCBIGene:4780,NFE2L2,1,11
+EFO:0004309,platelet count,NCBIGene:6927,HNF1A,1,11
+EFO:0004309,platelet count,NCBIGene:5972,REN,1,11
+EFO:0007986,reticulocyte count,NCBIGene:120227,CYP2R1,1,11
+EFO:0007986,reticulocyte count,NCBIGene:5244,ABCB4,1,11
+EFO:0007986,reticulocyte count,NCBIGene:7040,TGFB1,1,11
+EFO:0004464,brain measurement,NCBIGene:408,ARRB1,1,11
+EFO:0004464,brain measurement,NCBIGene:6927,HNF1A,1,11
+EFO:0004464,brain measurement,NCBIGene:4763,NF1,1,11
+EFO:0004464,brain measurement,NCBIGene:3082,HGF,1,11
+EFO:0004464,brain measurement,NCBIGene:6772,STAT1,1,11
+EFO:0004464,brain measurement,NCBIGene:1277,COL1A1,1,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:7040,TGFB1,1,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:6927,HNF1A,1,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:5244,ABCB4,1,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:405,ARNT,1,11
+EFO:0010700,"reticulocyte measurement""@e",NCBIGene:120227,CYP2R1,1,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:1717,DHCR7,1,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:7040,TGFB1,1,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:6696,SPP1,1,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:6772,STAT1,1,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:7422,VEGFA,1,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:1278,COL1A2,1,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:4780,NFE2L2,1,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:4864,NPC1,1,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:5244,ABCB4,1,11
+EFO:0010750,"PHF-tau measurement""@e",NCBIGene:7431,VIM,1,11
+EFO:0004980,appendicular lean mass,NCBIGene:4780,NFE2L2,1,11
+EFO:0004980,appendicular lean mass,NCBIGene:5244,ABCB4,1,11
+EFO:0004980,appendicular lean mass,NCBIGene:3956,LGALS1,1,11
+EFO:0004980,appendicular lean mass,NCBIGene:6772,STAT1,1,11
+EFO:0004980,appendicular lean mass,NCBIGene:4763,NF1,1,11
+EFO:0004980,appendicular lean mass,NCBIGene:2147,F2,1,11
+EFO:0004611,low density lipoprotein cholesterol measurement,NCBIGene:6927,HNF1A,18,10
+EFO:0004574,total cholesterol measurement,NCBIGene:6927,HNF1A,16,10
+EFO:0004735,serum alanine aminotransferase measurement,NCBIGene:5244,ABCB4,11,10
+EFO:0004305,erythrocyte count,NCBIGene:7422,VEGFA,8,10
+EFO:0004611,low density lipoprotein cholesterol measurement,NCBIGene:4763,NF1,6,10
+EFO:0004574,total cholesterol measurement,NCBIGene:4763,NF1,5,10
+EFO:0004574,total cholesterol measurement,NCBIGene:7431,VIM,5,10
+EFO:0004735,serum alanine aminotransferase measurement,NCBIGene:4864,NPC1,4,10
+EFO:0004611,low density lipoprotein cholesterol measurement,NCBIGene:5244,ABCB4,4,10
+EFO:0004305,erythrocyte count,NCBIGene:1535,CYBA,4,10
+EFO:0004305,erythrocyte count,NCBIGene:2149,F2R,4,10
+EFO:0004529,lipid measurement,NCBIGene:6927,HNF1A,4,10
+EFO:0010736,"cortical surface area measurement""@e",NCBIGene:7057,THBS1,4,10
+EFO:0004735,serum alanine aminotransferase measurement,NCBIGene:7422,VEGFA,3,10
+EFO:0004574,total cholesterol measurement,NCBIGene:7422,VEGFA,3,10
+EFO:0004611,low density lipoprotein cholesterol measurement,NCBIGene:7431,VIM,3,10
+EFO:0004611,low density lipoprotein cholesterol measurement,NCBIGene:7422,VEGFA,3,10
+EFO:0004529,lipid measurement,NCBIGene:405,ARNT,3,10
+EFO:0004735,serum alanine aminotransferase measurement,NCBIGene:6927,HNF1A,2,10
+EFO:0004735,serum alanine aminotransferase measurement,NCBIGene:3569,IL6,2,10
+EFO:0004574,total cholesterol measurement,NCBIGene:405,ARNT,2,10
+EFO:0004305,erythrocyte count,NCBIGene:1593,CYP27A1,2,10
+EFO:0004305,erythrocyte count,NCBIGene:7040,TGFB1,2,10
+EFO:0004305,erythrocyte count,NCBIGene:1277,COL1A1,2,10
+EFO:0004305,erythrocyte count,NCBIGene:1269,CNR2,2,10
+EFO:0004305,erythrocyte count,NCBIGene:5972,REN,2,10
+EFO:0004529,lipid measurement,NCBIGene:2247,FGF2,2,10
+EFO:0004529,lipid measurement,NCBIGene:120227,CYP2R1,2,10
+EFO:0004529,lipid measurement,NCBIGene:1593,CYP27A1,2,10
+EFO:0004529,lipid measurement,NCBIGene:7422,VEGFA,2,10
+EFO:0010736,"cortical surface area measurement""@e",NCBIGene:3082,HGF,2,10
+EFO:0010736,"cortical surface area measurement""@e",NCBIGene:5314,PKHD1,2,10
+EFO:0010736,"cortical surface area measurement""@e",NCBIGene:7422,VEGFA,2,10
+EFO:0010736,"cortical surface area measurement""@e",NCBIGene:6772,STAT1,2,10
+EFO:0010736,"cortical surface area measurement""@e",NCBIGene:3956,LGALS1,2,10
+EFO:0010736,"cortical surface area measurement""@e",NCBIGene:6927,HNF1A,2,10
+EFO:0004735,serum alanine aminotransferase measurement,NCBIGene:4088,SMAD3,1,10
+EFO:0004735,serum alanine aminotransferase measurement,NCBIGene:7040,TGFB1,1,10
+EFO:0004735,serum alanine aminotransferase measurement,NCBIGene:2321,FLT1,1,10
+EFO:0004735,serum alanine aminotransferase measurement,NCBIGene:7057,THBS1,1,10
+EFO:0004735,serum alanine aminotransferase measurement,NCBIGene:5314,PKHD1,1,10
+EFO:0004574,total cholesterol measurement,NCBIGene:7040,TGFB1,1,10
+EFO:0004574,total cholesterol measurement,NCBIGene:4088,SMAD3,1,10
+EFO:0004574,total cholesterol measurement,NCBIGene:1593,CYP27A1,1,10
+EFO:0004574,total cholesterol measurement,NCBIGene:3082,HGF,1,10
+EFO:0004574,total cholesterol measurement,NCBIGene:5244,ABCB4,1,10
+EFO:0004611,low density lipoprotein cholesterol measurement,NCBIGene:1593,CYP27A1,1,10
+EFO:0004611,low density lipoprotein cholesterol measurement,NCBIGene:7040,TGFB1,1,10
+EFO:0004611,low density lipoprotein cholesterol measurement,NCBIGene:4864,NPC1,1,10
+EFO:0004611,low density lipoprotein cholesterol measurement,NCBIGene:4088,SMAD3,1,10
+EFO:0004611,low density lipoprotein cholesterol measurement,NCBIGene:213,ALB,1,10
+EFO:0004305,erythrocyte count,NCBIGene:5314,PKHD1,1,10
+EFO:0004305,erythrocyte count,NCBIGene:4088,SMAD3,1,10
+EFO:0004529,lipid measurement,NCBIGene:4313,MMP2,1,10
+EFO:0004529,lipid measurement,NCBIGene:2321,FLT1,1,10
+EFO:0004529,lipid measurement,NCBIGene:1490,CCN2,1,10
+EFO:0004529,lipid measurement,NCBIGene:6696,SPP1,1,10
+EFO:0010736,"cortical surface area measurement""@e",NCBIGene:2149,F2R,1,10
+EFO:0010736,"cortical surface area measurement""@e",NCBIGene:1277,COL1A1,1,10
+EFO:0010736,"cortical surface area measurement""@e",NCBIGene:2147,F2,1,10
+EFO:0007788,BMI-adjusted waist-hip ratio,NCBIGene:7422,VEGFA,34,9
+EFO:0007788,BMI-adjusted waist-hip ratio,NCBIGene:120227,CYP2R1,3,9
+EFO:0007788,BMI-adjusted waist-hip ratio,NCBIGene:4088,SMAD3,3,9
+EFO:0007788,BMI-adjusted waist-hip ratio,NCBIGene:6772,STAT1,3,9
+EFO:0005689,non-high density lipoprotein cholesterol measurement,NCBIGene:6927,HNF1A,3,9
+EFO:0007788,BMI-adjusted waist-hip ratio,NCBIGene:2247,FGF2,2,9
+EFO:0007788,BMI-adjusted waist-hip ratio,NCBIGene:405,ARNT,2,9
+EFO:0007788,BMI-adjusted waist-hip ratio,NCBIGene:2149,F2R,2,9
+EFO:0005689,non-high density lipoprotein cholesterol measurement,NCBIGene:4763,NF1,2,9
+EFO:0005689,non-high density lipoprotein cholesterol measurement,NCBIGene:7431,VIM,2,9
+EFO:0007788,BMI-adjusted waist-hip ratio,NCBIGene:2321,FLT1,1,9
+EFO:0007788,BMI-adjusted waist-hip ratio,NCBIGene:1593,CYP27A1,1,9
+EFO:0005689,non-high density lipoprotein cholesterol measurement,NCBIGene:1593,CYP27A1,1,9
+EFO:0005689,non-high density lipoprotein cholesterol measurement,NCBIGene:7422,VEGFA,1,9
+EFO:0005689,non-high density lipoprotein cholesterol measurement,NCBIGene:4088,SMAD3,1,9
+EFO:0005689,non-high density lipoprotein cholesterol measurement,NCBIGene:4864,NPC1,1,9
+EFO:0005689,non-high density lipoprotein cholesterol measurement,NCBIGene:120227,CYP2R1,1,9
+EFO:0005689,non-high density lipoprotein cholesterol measurement,NCBIGene:5244,ABCB4,1,9
+EFO:0004908,testosterone measurement,NCBIGene:4780,NFE2L2,22,8
+EFO:0004527,mean corpuscular hemoglobin,NCBIGene:6927,HNF1A,17,8
+EFO:0004908,testosterone measurement,NCBIGene:5972,REN,15,8
+EFO:0004535,serum albumin measurement,NCBIGene:405,ARNT,11,8
+EFO:0004535,serum albumin measurement,NCBIGene:213,ALB,10,8
+EFO:0004842,eosinophil count,NCBIGene:4088,SMAD3,8,8
+EFO:0004842,eosinophil count,NCBIGene:6927,HNF1A,7,8
+EFO:0004842,eosinophil count,NCBIGene:3569,IL6,6,8
+EFO:0004842,eosinophil count,NCBIGene:4864,NPC1,6,8
+EFO:0004713,FEV/FEC ratio,NCBIGene:4088,SMAD3,6,8
+EFO:0004908,testosterone measurement,NCBIGene:4763,NF1,5,8
+EFO:0004908,testosterone measurement,NCBIGene:405,ARNT,5,8
+EFO:0004842,eosinophil count,NCBIGene:1269,CNR2,4,8
+EFO:0004908,testosterone measurement,NCBIGene:6927,HNF1A,4,8
+EFO:0004614,apolipoprotein A 1 measurement,NCBIGene:405,ARNT,4,8
+EFO:0004713,FEV/FEC ratio,NCBIGene:5328,PLAU,4,8
+EFO:0004535,serum albumin measurement,NCBIGene:3569,IL6,4,8
+EFO:0004312,vital capacity,NCBIGene:4088,SMAD3,4,8
+EFO:0004842,eosinophil count,NCBIGene:6772,STAT1,3,8
+EFO:0004527,mean corpuscular hemoglobin,NCBIGene:7040,TGFB1,3,8
+EFO:0004614,apolipoprotein A 1 measurement,NCBIGene:6927,HNF1A,3,8
+EFO:0004713,FEV/FEC ratio,NCBIGene:5314,PKHD1,3,8
+EFO:0004535,serum albumin measurement,NCBIGene:3956,LGALS1,3,8
+EFO:0004312,vital capacity,NCBIGene:7057,THBS1,3,8
+EFO:0004842,eosinophil count,NCBIGene:1277,COL1A1,2,8
+EFO:0004527,mean corpuscular hemoglobin,NCBIGene:2149,F2R,2,8
+EFO:0004527,mean corpuscular hemoglobin,NCBIGene:1269,CNR2,2,8
+EFO:0004527,mean corpuscular hemoglobin,NCBIGene:3569,IL6,2,8
+EFO:0004908,testosterone measurement,NCBIGene:7431,VIM,2,8
+EFO:0004908,testosterone measurement,NCBIGene:3082,HGF,2,8
+EFO:0004713,FEV/FEC ratio,NCBIGene:2321,FLT1,2,8
+EFO:0007874,gut microbiome measurement,NCBIGene:7046,TGFBR1,2,8
+EFO:0007874,gut microbiome measurement,NCBIGene:6347,CCL2,2,8
+EFO:0007874,gut microbiome measurement,NCBIGene:5314,PKHD1,2,8
+EFO:0004535,serum albumin measurement,NCBIGene:3082,HGF,2,8
+EFO:0004312,vital capacity,NCBIGene:5328,PLAU,2,8
+EFO:0004842,eosinophil count,NCBIGene:5328,PLAU,1,8
+EFO:0004527,mean corpuscular hemoglobin,NCBIGene:1535,CYBA,1,8
+EFO:0004527,mean corpuscular hemoglobin,NCBIGene:2321,FLT1,1,8
+EFO:0004527,mean corpuscular hemoglobin,NCBIGene:6772,STAT1,1,8
+EFO:0004908,testosterone measurement,NCBIGene:1593,CYP27A1,1,8
+EFO:0004614,apolipoprotein A 1 measurement,NCBIGene:120227,CYP2R1,1,8
+EFO:0004614,apolipoprotein A 1 measurement,NCBIGene:4763,NF1,1,8
+EFO:0004614,apolipoprotein A 1 measurement,NCBIGene:4864,NPC1,1,8
+EFO:0004614,apolipoprotein A 1 measurement,NCBIGene:1593,CYP27A1,1,8
+EFO:0004614,apolipoprotein A 1 measurement,NCBIGene:7040,TGFB1,1,8
+EFO:0004614,apolipoprotein A 1 measurement,NCBIGene:7422,VEGFA,1,8
+EFO:0004713,FEV/FEC ratio,NCBIGene:1499,CTNNB1,1,8
+EFO:0004713,FEV/FEC ratio,NCBIGene:7040,TGFB1,1,8
+EFO:0004713,FEV/FEC ratio,NCBIGene:2149,F2R,1,8
+EFO:0004713,FEV/FEC ratio,NCBIGene:1593,CYP27A1,1,8
+EFO:0007874,gut microbiome measurement,NCBIGene:120227,CYP2R1,1,8
+EFO:0007874,gut microbiome measurement,NCBIGene:5328,PLAU,1,8
+EFO:0007874,gut microbiome measurement,NCBIGene:1535,CYBA,1,8
+EFO:0007874,gut microbiome measurement,NCBIGene:5244,ABCB4,1,8
+EFO:0007874,gut microbiome measurement,NCBIGene:183,AGT,1,8
+EFO:0004535,serum albumin measurement,NCBIGene:6927,HNF1A,1,8
+EFO:0004535,serum albumin measurement,NCBIGene:4088,SMAD3,1,8
+EFO:0004535,serum albumin measurement,NCBIGene:2149,F2R,1,8
+EFO:0004312,vital capacity,NCBIGene:1535,CYBA,1,8
+EFO:0004312,vital capacity,NCBIGene:2247,FGF2,1,8
+EFO:0004312,vital capacity,NCBIGene:2321,FLT1,1,8
+EFO:0004312,vital capacity,NCBIGene:4864,NPC1,1,8
+EFO:0004312,vital capacity,NCBIGene:1278,COL1A2,1,8
+EFO:0004532,serum gamma-glutamyl transferase measurement,NCBIGene:6927,HNF1A,25,7
+EFO:0008039,BMI-adjusted hip circumference,NCBIGene:4763,NF1,20,7
+EFO:0004348,hematocrit,NCBIGene:7422,VEGFA,10,7
+EFO:0008039,BMI-adjusted hip circumference,NCBIGene:120227,CYP2R1,10,7
+EFO:0005208,glomerular filtration rate,NCBIGene:4780,NFE2L2,8,7
+EFO:0004518,creatinine measurement,NCBIGene:7422,VEGFA,8,7
+EFO:0005208,glomerular filtration rate,NCBIGene:7422,VEGFA,7,7
+EFO:0005208,glomerular filtration rate,NCBIGene:6927,HNF1A,7,7
+EFO:0004308,leukocyte count,NCBIGene:4864,NPC1,7,7
+EFO:0004833,neutrophil count,NCBIGene:4864,NPC1,7,7
+EFO:0005208,glomerular filtration rate,NCBIGene:4088,SMAD3,6,7
+EFO:0005208,glomerular filtration rate,NCBIGene:5314,PKHD1,6,7
+EFO:0005192,red blood cell distribution width,NCBIGene:5244,ABCB4,6,7
+EFO:0004308,leukocyte count,NCBIGene:7422,VEGFA,6,7
+EFO:0005091,monocyte count,NCBIGene:2321,FLT1,6,7
+EFO:0004314,forced expiratory volume,NCBIGene:1278,COL1A2,6,7
+EFO:0005208,glomerular filtration rate,NCBIGene:405,ARNT,5,7
+EFO:0004308,leukocyte count,NCBIGene:6927,HNF1A,5,7
+EFO:0004833,neutrophil count,NCBIGene:7422,VEGFA,5,7
+EFO:0008039,BMI-adjusted hip circumference,NCBIGene:7422,VEGFA,5,7
+EFO:0004532,serum gamma-glutamyl transferase measurement,NCBIGene:7057,THBS1,4,7
+EFO:0004532,serum gamma-glutamyl transferase measurement,NCBIGene:4763,NF1,4,7
+EFO:0004518,creatinine measurement,NCBIGene:405,ARNT,4,7
+EFO:0005192,red blood cell distribution width,NCBIGene:7431,VIM,4,7
+EFO:0004343,waist-hip ratio,NCBIGene:7422,VEGFA,4,7
+EFO:0004308,leukocyte count,NCBIGene:3569,IL6,4,7
+EFO:0005763,pulse pressure measurement,NCBIGene:7040,TGFB1,4,7
+EFO:0004348,hematocrit,NCBIGene:1535,CYBA,4,7
+EFO:0004518,creatinine measurement,NCBIGene:4780,NFE2L2,3,7
+EFO:0005763,pulse pressure measurement,NCBIGene:3569,IL6,3,7
+EFO:0004348,hematocrit,NCBIGene:5314,PKHD1,3,7
+EFO:0004348,hematocrit,NCBIGene:6927,HNF1A,3,7
+EFO:0005091,monocyte count,NCBIGene:6347,CCL2,3,7
+EFO:0008039,BMI-adjusted hip circumference,NCBIGene:405,ARNT,3,7
+EFO:0004314,forced expiratory volume,NCBIGene:1535,CYBA,3,7
+EFO:0004346,neuroimaging measurement,NCBIGene:4763,NF1,3,7
+EFO:0005208,glomerular filtration rate,NCBIGene:4763,NF1,2,7
+EFO:0004532,serum gamma-glutamyl transferase measurement,NCBIGene:7040,TGFB1,2,7
+EFO:0004518,creatinine measurement,NCBIGene:5314,PKHD1,2,7
+EFO:0005192,red blood cell distribution width,NCBIGene:1535,CYBA,2,7
+EFO:0005192,red blood cell distribution width,NCBIGene:7040,TGFB1,2,7
+EFO:0005192,red blood cell distribution width,NCBIGene:1277,COL1A1,2,7
+EFO:0005192,red blood cell distribution width,NCBIGene:1269,CNR2,2,7
+EFO:0004343,waist-hip ratio,NCBIGene:4088,SMAD3,2,7
+EFO:0004343,waist-hip ratio,NCBIGene:4864,NPC1,2,7
+EFO:0004615,apolipoprotein B measurement,NCBIGene:4763,NF1,2,7
+EFO:0004615,apolipoprotein B measurement,NCBIGene:6927,HNF1A,2,7
+EFO:0004587,lymphocyte count,NCBIGene:3569,IL6,2,7
+EFO:0004587,lymphocyte count,NCBIGene:405,ARNT,2,7
+EFO:0004587,lymphocyte count,NCBIGene:1269,CNR2,2,7
+EFO:0004308,leukocyte count,NCBIGene:1277,COL1A1,2,7
+EFO:0004308,leukocyte count,NCBIGene:405,ARNT,2,7
+EFO:0005763,pulse pressure measurement,NCBIGene:4088,SMAD3,2,7
+EFO:0005763,pulse pressure measurement,NCBIGene:4780,NFE2L2,2,7
+EFO:0004348,hematocrit,NCBIGene:5972,REN,2,7
+EFO:0005091,monocyte count,NCBIGene:1277,COL1A1,2,7
+EFO:0005091,monocyte count,NCBIGene:2147,F2,2,7
+EFO:0004833,neutrophil count,NCBIGene:1277,COL1A1,2,7
+EFO:0008039,BMI-adjusted hip circumference,NCBIGene:7040,TGFB1,2,7
+EFO:0008039,BMI-adjusted hip circumference,NCBIGene:1535,CYBA,2,7
+EFO:0008039,BMI-adjusted hip circumference,NCBIGene:4088,SMAD3,2,7
+EFO:0004314,forced expiratory volume,NCBIGene:4088,SMAD3,2,7
+EFO:0004314,forced expiratory volume,NCBIGene:5328,PLAU,2,7
+EFO:0004346,neuroimaging measurement,NCBIGene:7422,VEGFA,2,7
+MONDO:0004995,cardiovascular disorder,NCBIGene:183,AGT,1,7
+MONDO:0004995,cardiovascular disorder,NCBIGene:4088,SMAD3,1,7
+MONDO:0004995,cardiovascular disorder,NCBIGene:7422,VEGFA,1,7
+MONDO:0004995,cardiovascular disorder,NCBIGene:6927,HNF1A,1,7
+MONDO:0004995,cardiovascular disorder,NCBIGene:1593,CYP27A1,1,7
+MONDO:0004995,cardiovascular disorder,NCBIGene:5314,PKHD1,1,7
+MONDO:0004995,cardiovascular disorder,NCBIGene:4864,NPC1,1,7
+EFO:0004532,serum gamma-glutamyl transferase measurement,NCBIGene:5314,PKHD1,1,7
+EFO:0004532,serum gamma-glutamyl transferase measurement,NCBIGene:5328,PLAU,1,7
+EFO:0004532,serum gamma-glutamyl transferase measurement,NCBIGene:7422,VEGFA,1,7
+EFO:0004518,creatinine measurement,NCBIGene:4088,SMAD3,1,7
+EFO:0004518,creatinine measurement,NCBIGene:6696,SPP1,1,7
+EFO:0004518,creatinine measurement,NCBIGene:6927,HNF1A,1,7
+EFO:0005192,red blood cell distribution width,NCBIGene:6927,HNF1A,1,7
+EFO:0004343,waist-hip ratio,NCBIGene:2149,F2R,1,7
+EFO:0004343,waist-hip ratio,NCBIGene:6772,STAT1,1,7
+EFO:0004343,waist-hip ratio,NCBIGene:2247,FGF2,1,7
+EFO:0004343,waist-hip ratio,NCBIGene:1593,CYP27A1,1,7
+EFO:0004615,apolipoprotein B measurement,NCBIGene:120227,CYP2R1,1,7
+EFO:0004615,apolipoprotein B measurement,NCBIGene:213,ALB,1,7
+EFO:0004615,apolipoprotein B measurement,NCBIGene:7422,VEGFA,1,7
+EFO:0004615,apolipoprotein B measurement,NCBIGene:5244,ABCB4,1,7
+EFO:0004615,apolipoprotein B measurement,NCBIGene:405,ARNT,1,7
+EFO:0004587,lymphocyte count,NCBIGene:1535,CYBA,1,7
+EFO:0004587,lymphocyte count,NCBIGene:1593,CYP27A1,1,7
+EFO:0004587,lymphocyte count,NCBIGene:2247,FGF2,1,7
+EFO:0004587,lymphocyte count,NCBIGene:2147,F2,1,7
+EFO:0004308,leukocyte count,NCBIGene:3956,LGALS1,1,7
+EFO:0005763,pulse pressure measurement,NCBIGene:2147,F2,1,7
+EFO:0005763,pulse pressure measurement,NCBIGene:7046,TGFBR1,1,7
+EFO:0005763,pulse pressure measurement,NCBIGene:3956,LGALS1,1,7
+EFO:0004348,hematocrit,NCBIGene:4088,SMAD3,1,7
+EFO:0004348,hematocrit,NCBIGene:1593,CYP27A1,1,7
+EFO:0005091,monocyte count,NCBIGene:2149,F2R,1,7
+EFO:0005091,monocyte count,NCBIGene:1535,CYBA,1,7
+EFO:0005091,monocyte count,NCBIGene:4763,NF1,1,7
+EFO:0004833,neutrophil count,NCBIGene:405,ARNT,1,7
+EFO:0004833,neutrophil count,NCBIGene:7040,TGFB1,1,7
+EFO:0004833,neutrophil count,NCBIGene:6927,HNF1A,1,7
+EFO:0004833,neutrophil count,NCBIGene:3569,IL6,1,7
+EFO:0004314,forced expiratory volume,NCBIGene:5314,PKHD1,1,7
+EFO:0004314,forced expiratory volume,NCBIGene:2147,F2,1,7
+EFO:0004314,forced expiratory volume,NCBIGene:4864,NPC1,1,7
+EFO:0004346,neuroimaging measurement,NCBIGene:1277,COL1A1,1,7
+EFO:0004346,neuroimaging measurement,NCBIGene:5328,PLAU,1,7
+EFO:0004346,neuroimaging measurement,NCBIGene:6772,STAT1,1,7
+EFO:0004346,neuroimaging measurement,NCBIGene:5314,PKHD1,1,7
+EFO:0004346,neuroimaging measurement,NCBIGene:3956,LGALS1,1,7
+EFO:0004458,C-reactive protein measurement,NCBIGene:6927,HNF1A,56,6
+MONDO:0018874,acute myeloid leukemia,NCBIGene:5314,PKHD1,14,6
+EFO:0004458,C-reactive protein measurement,NCBIGene:3569,IL6,13,6
+EFO:0004509,hemoglobin measurement,NCBIGene:7422,VEGFA,11,6
+MONDO:0018874,acute myeloid leukemia,NCBIGene:5972,REN,8,6
+MONDO:0018874,acute myeloid leukemia,NCBIGene:6927,HNF1A,7,6
+EFO:0004509,hemoglobin measurement,NCBIGene:1535,CYBA,6,6
+EFO:0004509,hemoglobin measurement,NCBIGene:1593,CYP27A1,6,6
+EFO:0004695,intraocular pressure measurement,NCBIGene:5314,PKHD1,6,6
+MONDO:0018874,acute myeloid leukemia,NCBIGene:1356,CP,5,6
+EFO:0007878,alcohol consumption measurement,NCBIGene:4780,NFE2L2,5,6
+EFO:0007878,alcohol consumption measurement,NCBIGene:4763,NF1,5,6
+EFO:0004509,hemoglobin measurement,NCBIGene:6927,HNF1A,5,6
+EFO:0004695,intraocular pressure measurement,NCBIGene:4088,SMAD3,5,6
+MONDO:0005101,ulcerative colitis,NCBIGene:4088,SMAD3,4,6
+EFO:0006930,brain volume measurement,NCBIGene:6696,SPP1,4,6
+EFO:0004784,self reported educational attainment,NCBIGene:4864,NPC1,4,6
+MONDO:0018874,acute myeloid leukemia,NCBIGene:1593,CYP27A1,3,6
+EFO:0007878,alcohol consumption measurement,NCBIGene:6927,HNF1A,3,6
+EFO:0011015,"educational attainment""@e",NCBIGene:4864,NPC1,3,6
+MONDO:0005101,ulcerative colitis,NCBIGene:6772,STAT1,2,6
+MONDO:0005101,ulcerative colitis,NCBIGene:6347,CCL2,2,6
+MONDO:0005101,ulcerative colitis,NCBIGene:5328,PLAU,2,6
+EFO:0004458,C-reactive protein measurement,NCBIGene:4780,NFE2L2,2,6
+EFO:0004458,C-reactive protein measurement,NCBIGene:4864,NPC1,2,6
+MONDO:0018874,acute myeloid leukemia,NCBIGene:2321,FLT1,2,6
+EFO:0007878,alcohol consumption measurement,NCBIGene:5314,PKHD1,2,6
+EFO:0007878,alcohol consumption measurement,NCBIGene:4864,NPC1,2,6
+EFO:0004695,intraocular pressure measurement,NCBIGene:2147,F2,2,6
+EFO:0004617,cystatin C measurement,NCBIGene:5314,PKHD1,2,6
+EFO:0004617,cystatin C measurement,NCBIGene:6927,HNF1A,2,6
+EFO:0004617,cystatin C measurement,NCBIGene:405,ARNT,2,6
+EFO:0007629,hemoglobin A1 measurement,NCBIGene:7431,VIM,2,6
+HP:0000539,Abnormality of refraction,NCBIGene:1499,CTNNB1,2,6
+HP:0000539,Abnormality of refraction,NCBIGene:7046,TGFBR1,2,6
+EFO:0011013,"vaginal microbiome measurement""@e",NCBIGene:3082,HGF,2,6
+EFO:0011013,"vaginal microbiome measurement""@e",NCBIGene:4864,NPC1,2,6
+EFO:0011015,"educational attainment""@e",NCBIGene:1277,COL1A1,2,6
+EFO:0006930,brain volume measurement,NCBIGene:3956,LGALS1,2,6
+MONDO:0005101,ulcerative colitis,NCBIGene:183,AGT,1,6
+MONDO:0005101,ulcerative colitis,NCBIGene:7422,VEGFA,1,6
+EFO:0004458,C-reactive protein measurement,NCBIGene:5328,PLAU,1,6
+EFO:0004458,C-reactive protein measurement,NCBIGene:1490,CCN2,1,6
+EFO:0007878,alcohol consumption measurement,NCBIGene:7422,VEGFA,1,6
+EFO:0004509,hemoglobin measurement,NCBIGene:5314,PKHD1,1,6
+EFO:0004509,hemoglobin measurement,NCBIGene:5972,REN,1,6
+EFO:0004695,intraocular pressure measurement,NCBIGene:3956,LGALS1,1,6
+EFO:0004695,intraocular pressure measurement,NCBIGene:1593,CYP27A1,1,6
+EFO:0004695,intraocular pressure measurement,NCBIGene:5328,PLAU,1,6
+EFO:0004617,cystatin C measurement,NCBIGene:7422,VEGFA,1,6
+EFO:0004617,cystatin C measurement,NCBIGene:3569,IL6,1,6
+EFO:0004617,cystatin C measurement,NCBIGene:1593,CYP27A1,1,6
+EFO:0007629,hemoglobin A1 measurement,NCBIGene:7422,VEGFA,1,6
+EFO:0007629,hemoglobin A1 measurement,NCBIGene:120227,CYP2R1,1,6
+EFO:0007629,hemoglobin A1 measurement,NCBIGene:7040,TGFB1,1,6
+EFO:0007629,hemoglobin A1 measurement,NCBIGene:6927,HNF1A,1,6
+EFO:0007629,hemoglobin A1 measurement,NCBIGene:405,ARNT,1,6
+HP:0000539,Abnormality of refraction,NCBIGene:1593,CYP27A1,1,6
+HP:0000539,Abnormality of refraction,NCBIGene:7422,VEGFA,1,6
+HP:0000539,Abnormality of refraction,NCBIGene:2321,FLT1,1,6
+HP:0000539,Abnormality of refraction,NCBIGene:4313,MMP2,1,6
+EFO:0011013,"vaginal microbiome measurement""@e",NCBIGene:183,AGT,1,6
+EFO:0011013,"vaginal microbiome measurement""@e",NCBIGene:2321,FLT1,1,6
+EFO:0011013,"vaginal microbiome measurement""@e",NCBIGene:1535,CYBA,1,6
+EFO:0011013,"vaginal microbiome measurement""@e",NCBIGene:5972,REN,1,6
+EFO:0011015,"educational attainment""@e",NCBIGene:5314,PKHD1,1,6
+EFO:0011015,"educational attainment""@e",NCBIGene:4780,NFE2L2,1,6
+EFO:0011015,"educational attainment""@e",NCBIGene:3082,HGF,1,6
+EFO:0011015,"educational attainment""@e",NCBIGene:1278,COL1A2,1,6
+EFO:0006930,brain volume measurement,NCBIGene:5314,PKHD1,1,6
+EFO:0006930,brain volume measurement,NCBIGene:1277,COL1A1,1,6
+EFO:0006930,brain volume measurement,NCBIGene:7057,THBS1,1,6
+EFO:0006930,brain volume measurement,NCBIGene:4763,NF1,1,6
+EFO:0004784,self reported educational attainment,NCBIGene:3956,LGALS1,1,6
+EFO:0004784,self reported educational attainment,NCBIGene:5314,PKHD1,1,6
+EFO:0004784,self reported educational attainment,NCBIGene:5328,PLAU,1,6
+EFO:0004784,self reported educational attainment,NCBIGene:6772,STAT1,1,6
+EFO:0004784,self reported educational attainment,NCBIGene:6927,HNF1A,1,6
+MONDO:0007915,systemic lupus erythematosus,NCBIGene:6772,STAT1,28,5
+MONDO:0004979,asthma,NCBIGene:4088,SMAD3,21,5
+EFO:0004541,HbA1c measurement,NCBIGene:1535,CYBA,13,5
+EFO:0007985,platelet crit,NCBIGene:4763,NF1,12,5
+MONDO:0005405,childhood onset asthma,NCBIGene:4088,SMAD3,8,5
+EFO:0004570,bilirubin measurement,NCBIGene:1535,CYBA,7,5
+EFO:0007988,myeloid white cell count,NCBIGene:4864,NPC1,7,5
+EFO:0005090,basophil count,NCBIGene:4864,NPC1,6,5
+MONDO:0004979,asthma,NCBIGene:7046,TGFBR1,5,5
+EFO:0004570,bilirubin measurement,NCBIGene:3569,IL6,5,5
+MONDO:0004979,asthma,NCBIGene:3569,IL6,4,5
+MONDO:0004979,asthma,NCBIGene:6927,HNF1A,4,5
+EFO:0007993,lymphocyte percentage of leukocytes,NCBIGene:405,ARNT,4,5
+MONDO:0005159,prostate carcinoma,NCBIGene:7422,VEGFA,3,5
+MONDO:0005159,prostate carcinoma,NCBIGene:5972,REN,3,5
+MONDO:0005068,myocardial infarction,NCBIGene:7040,TGFB1,3,5
+MONDO:0005405,childhood onset asthma,NCBIGene:405,ARNT,3,5
+MONDO:0005405,childhood onset asthma,NCBIGene:6927,HNF1A,3,5
+EFO:0007988,myeloid white cell count,NCBIGene:7422,VEGFA,3,5
+EFO:0007984,platelet component distribution width,NCBIGene:2149,F2R,3,5
+EFO:0004541,HbA1c measurement,NCBIGene:405,ARNT,3,5
+EFO:0007989,monocyte percentage of leukocytes,NCBIGene:2321,FLT1,3,5
+EFO:0007985,platelet crit,NCBIGene:1535,CYBA,3,5
+EFO:0004536,total blood protein measurement,NCBIGene:4864,NPC1,3,5
+MONDO:0005068,myocardial infarction,NCBIGene:4088,SMAD3,2,5
+MONDO:0005068,myocardial infarction,NCBIGene:2321,FLT1,2,5
+MONDO:0005405,childhood onset asthma,NCBIGene:3569,IL6,2,5
+MONDO:0004892,refractive error,NCBIGene:2321,FLT1,2,5
+EFO:0008111,diet measurement,NCBIGene:5314,PKHD1,2,5
+EFO:0004570,bilirubin measurement,NCBIGene:213,ALB,2,5
+EFO:0004629,von Willebrand factor measurement,NCBIGene:4088,SMAD3,2,5
+EFO:0004629,von Willebrand factor measurement,NCBIGene:6927,HNF1A,2,5
+EFO:0007988,myeloid white cell count,NCBIGene:3956,LGALS1,2,5
+EFO:0007989,monocyte percentage of leukocytes,NCBIGene:1535,CYBA,2,5
+EFO:0007989,monocyte percentage of leukocytes,NCBIGene:6347,CCL2,2,5
+EFO:0004344,birth weight,NCBIGene:3569,IL6,2,5
+EFO:0004344,birth weight,NCBIGene:6772,STAT1,2,5
+EFO:0004847,age at onset,NCBIGene:7046,TGFBR1,2,5
+EFO:0004847,age at onset,NCBIGene:2321,FLT1,2,5
+EFO:0004847,age at onset,NCBIGene:4088,SMAD3,2,5
+EFO:0004623,fibrinogen measurement,NCBIGene:6927,HNF1A,2,5
+EFO:0004623,fibrinogen measurement,NCBIGene:4088,SMAD3,2,5
+EFO:0004623,fibrinogen measurement,NCBIGene:3569,IL6,2,5
+EFO:0004338,body weight,NCBIGene:4864,NPC1,2,5
+EFO:0007985,platelet crit,NCBIGene:6927,HNF1A,2,5
+EFO:0007985,platelet crit,NCBIGene:7422,VEGFA,2,5
+EFO:0005939,parental genotype effect measurement,NCBIGene:3569,IL6,2,5
+EFO:0004619,factor VII measurement,NCBIGene:6927,HNF1A,2,5
+EFO:0005090,basophil count,NCBIGene:1277,COL1A1,2,5
+EFO:0005090,basophil count,NCBIGene:3956,LGALS1,2,5
+EFO:0006527,smoking status measurement,NCBIGene:4088,SMAD3,2,5
+MONDO:0007915,systemic lupus erythematosus,NCBIGene:3569,IL6,1,5
+MONDO:0007915,systemic lupus erythematosus,NCBIGene:1717,DHCR7,1,5
+MONDO:0007915,systemic lupus erythematosus,NCBIGene:4088,SMAD3,1,5
+MONDO:0007915,systemic lupus erythematosus,NCBIGene:5328,PLAU,1,5
+MONDO:0004979,asthma,NCBIGene:7057,THBS1,1,5
+MONDO:0004989,breast carcinoma,NCBIGene:4088,SMAD3,1,5
+MONDO:0004989,breast carcinoma,NCBIGene:6696,SPP1,1,5
+MONDO:0004989,breast carcinoma,NCBIGene:2321,FLT1,1,5
+MONDO:0004989,breast carcinoma,NCBIGene:1277,COL1A1,1,5
+MONDO:0004989,breast carcinoma,NCBIGene:1278,COL1A2,1,5
+MONDO:0005159,prostate carcinoma,NCBIGene:405,ARNT,1,5
+MONDO:0005159,prostate carcinoma,NCBIGene:213,ALB,1,5
+MONDO:0005159,prostate carcinoma,NCBIGene:5314,PKHD1,1,5
+MONDO:0005068,myocardial infarction,NCBIGene:7422,VEGFA,1,5
+MONDO:0005068,myocardial infarction,NCBIGene:6927,HNF1A,1,5
+MONDO:0005405,childhood onset asthma,NCBIGene:7046,TGFBR1,1,5
+MONDO:0004892,refractive error,NCBIGene:7422,VEGFA,1,5
+MONDO:0004892,refractive error,NCBIGene:4780,NFE2L2,1,5
+MONDO:0004892,refractive error,NCBIGene:1499,CTNNB1,1,5
+MONDO:0004892,refractive error,NCBIGene:7046,TGFBR1,1,5
+EFO:0008111,diet measurement,NCBIGene:4864,NPC1,1,5
+EFO:0008111,diet measurement,NCBIGene:2147,F2,1,5
+EFO:0008111,diet measurement,NCBIGene:4763,NF1,1,5
+EFO:0008111,diet measurement,NCBIGene:7431,VIM,1,5
+EFO:0004570,bilirubin measurement,NCBIGene:6927,HNF1A,1,5
+EFO:0004570,bilirubin measurement,NCBIGene:2149,F2R,1,5
+EFO:0004629,von Willebrand factor measurement,NCBIGene:2321,FLT1,1,5
+EFO:0004629,von Willebrand factor measurement,NCBIGene:2147,F2,1,5
+EFO:0004629,von Willebrand factor measurement,NCBIGene:7040,TGFB1,1,5
+EFO:0007993,lymphocyte percentage of leukocytes,NCBIGene:2247,FGF2,1,5
+EFO:0007993,lymphocyte percentage of leukocytes,NCBIGene:1269,CNR2,1,5
+EFO:0007993,lymphocyte percentage of leukocytes,NCBIGene:3569,IL6,1,5
+EFO:0007993,lymphocyte percentage of leukocytes,NCBIGene:1593,CYP27A1,1,5
+EFO:0007988,myeloid white cell count,NCBIGene:3569,IL6,1,5
+EFO:0007988,myeloid white cell count,NCBIGene:7040,TGFB1,1,5
+EFO:0007984,platelet component distribution width,NCBIGene:7422,VEGFA,1,5
+EFO:0007984,platelet component distribution width,NCBIGene:1277,COL1A1,1,5
+EFO:0007984,platelet component distribution width,NCBIGene:7431,VIM,1,5
+EFO:0007984,platelet component distribution width,NCBIGene:4864,NPC1,1,5
+EFO:0004541,HbA1c measurement,NCBIGene:7422,VEGFA,1,5
+EFO:0004541,HbA1c measurement,NCBIGene:120227,CYP2R1,1,5
+EFO:0004541,HbA1c measurement,NCBIGene:7040,TGFB1,1,5
+EFO:0007989,monocyte percentage of leukocytes,NCBIGene:4763,NF1,1,5
+EFO:0007989,monocyte percentage of leukocytes,NCBIGene:4864,NPC1,1,5
+EFO:0004344,birth weight,NCBIGene:4088,SMAD3,1,5
+EFO:0004344,birth weight,NCBIGene:6927,HNF1A,1,5
+EFO:0004344,birth weight,NCBIGene:2321,FLT1,1,5
+EFO:0004847,age at onset,NCBIGene:2149,F2R,1,5
+EFO:0004847,age at onset,NCBIGene:6927,HNF1A,1,5
+EFO:0004623,fibrinogen measurement,NCBIGene:7040,TGFB1,1,5
+EFO:0004623,fibrinogen measurement,NCBIGene:2321,FLT1,1,5
+EFO:0004338,body weight,NCBIGene:6927,HNF1A,1,5
+EFO:0004338,body weight,NCBIGene:7040,TGFB1,1,5
+EFO:0004338,body weight,NCBIGene:2247,FGF2,1,5
+EFO:0004338,body weight,NCBIGene:1499,CTNNB1,1,5
+EFO:0007985,platelet crit,NCBIGene:7431,VIM,1,5
+EFO:0005939,parental genotype effect measurement,NCBIGene:7040,TGFB1,1,5
+EFO:0005939,parental genotype effect measurement,NCBIGene:3082,HGF,1,5
+EFO:0005939,parental genotype effect measurement,NCBIGene:4088,SMAD3,1,5
+EFO:0005939,parental genotype effect measurement,NCBIGene:2321,FLT1,1,5
+EFO:0004619,factor VII measurement,NCBIGene:4088,SMAD3,1,5
+EFO:0004619,factor VII measurement,NCBIGene:7040,TGFB1,1,5
+EFO:0004619,factor VII measurement,NCBIGene:2321,FLT1,1,5
+EFO:0004619,factor VII measurement,NCBIGene:2147,F2,1,5
+EFO:0005090,basophil count,NCBIGene:3569,IL6,1,5
+EFO:0005090,basophil count,NCBIGene:4088,SMAD3,1,5
+EFO:0004536,total blood protein measurement,NCBIGene:5314,PKHD1,1,5
+EFO:0004536,total blood protein measurement,NCBIGene:2149,F2R,1,5
+EFO:0004536,total blood protein measurement,NCBIGene:7040,TGFB1,1,5
+EFO:0004536,total blood protein measurement,NCBIGene:3082,HGF,1,5
+EFO:0006527,smoking status measurement,NCBIGene:4864,NPC1,1,5
+EFO:0006527,smoking status measurement,NCBIGene:183,AGT,1,5
+EFO:0006527,smoking status measurement,NCBIGene:6347,CCL2,1,5
+EFO:0006527,smoking status measurement,NCBIGene:5314,PKHD1,1,5
+EFO:0004584,mean platelet volume,NCBIGene:2149,F2R,10,4
+EFO:0008317,very low density lipoprotein cholesterol measurement,NCBIGene:6927,HNF1A,7,4
+EFO:0008591,free cholesterol measurement,NCBIGene:6927,HNF1A,7,4
+EFO:0004584,mean platelet volume,NCBIGene:6772,STAT1,6,4
+EFO:0007822,hair colour measurement,NCBIGene:1535,CYBA,6,4
+EFO:0003923,bone density,NCBIGene:2147,F2,6,4
+EFO:0003923,bone density,NCBIGene:6696,SPP1,6,4
+MONDO:0011565,metabolic syndrome X,NCBIGene:405,ARNT,5,4
+EFO:0020946,"phospholipids:total lipids ratio""@e",NCBIGene:405,ARNT,5,4
+EFO:0004531,urate measurement,NCBIGene:6927,HNF1A,5,4
+EFO:0004531,urate measurement,NCBIGene:6696,SPP1,5,4
+EFO:0004531,urate measurement,NCBIGene:7422,VEGFA,5,4
+EFO:0004528,mean corpuscular hemoglobin concentration,NCBIGene:1535,CYBA,5,4
+EFO:0010351,"cholesteryl ester measurement""@e",NCBIGene:6927,HNF1A,5,4
+MONDO:0005265,inflammatory bowel disease,NCBIGene:6347,CCL2,4,4
+MONDO:0005011,Crohn disease,NCBIGene:6347,CCL2,4,4
+MONDO:0005399,venous thromboembolism,NCBIGene:2147,F2,4,4
+MONDO:0006629,"osteoarthritis, hip",NCBIGene:4088,SMAD3,4,4
+EFO:0008595,intermediate density lipoprotein measurement,NCBIGene:6927,HNF1A,4,4
+EFO:0020946,"phospholipids:total lipids ratio""@e",NCBIGene:7422,VEGFA,4,4
+EFO:0020946,"phospholipids:total lipids ratio""@e",NCBIGene:6927,HNF1A,4,4
+EFO:0007825,balding measurement,NCBIGene:7040,TGFB1,4,4
+EFO:0008317,very low density lipoprotein cholesterol measurement,NCBIGene:7422,VEGFA,4,4
+EFO:0003923,bone density,NCBIGene:1499,CTNNB1,4,4
+EFO:0004639,phospholipid measurement,NCBIGene:6927,HNF1A,4,4
+EFO:0004468,glucose measurement,NCBIGene:7422,VEGFA,4,4
+MONDO:0005575,colorectal cancer,NCBIGene:7040,TGFB1,3,4
+MONDO:0005011,Crohn disease,NCBIGene:4088,SMAD3,3,4
+MONDO:0005011,Crohn disease,NCBIGene:6772,STAT1,3,4
+MONDO:0005011,Crohn disease,NCBIGene:5328,PLAU,3,4
+EFO:0005213,central corneal thickness,NCBIGene:4088,SMAD3,3,4
+EFO:0007825,balding measurement,NCBIGene:1593,CYP27A1,3,4
+EFO:0008317,very low density lipoprotein cholesterol measurement,NCBIGene:405,ARNT,3,4
+EFO:0008591,free cholesterol measurement,NCBIGene:7422,VEGFA,3,4
+EFO:0020944,"cholesteryl esters:total lipids ratio""@e",NCBIGene:7422,VEGFA,3,4
+EFO:0010067,corneal resistance factor,NCBIGene:4088,SMAD3,3,4
+EFO:0010067,corneal resistance factor,NCBIGene:1277,COL1A1,3,4
+EFO:0007800,body fat percentage,NCBIGene:4864,NPC1,3,4
+EFO:0004761,uric acid measurement,NCBIGene:7422,VEGFA,3,4
+MONDO:0005265,inflammatory bowel disease,NCBIGene:5328,PLAU,2,4
+MONDO:0005301,multiple sclerosis,NCBIGene:5328,PLAU,2,4
+MONDO:0005488,adolescent idiopathic scoliosis,NCBIGene:1717,DHCR7,2,4
+MONDO:0005488,adolescent idiopathic scoliosis,NCBIGene:2321,FLT1,2,4
+MONDO:0005002,chronic obstructive pulmonary disease,NCBIGene:2321,FLT1,2,4
+EFO:0008595,intermediate density lipoprotein measurement,NCBIGene:405,ARNT,2,4
+EFO:0004584,mean platelet volume,NCBIGene:1277,COL1A1,2,4
+EFO:0007825,balding measurement,NCBIGene:4088,SMAD3,2,4
+EFO:0007825,balding measurement,NCBIGene:1499,CTNNB1,2,4
+EFO:0004528,mean corpuscular hemoglobin concentration,NCBIGene:1277,COL1A1,2,4
+EFO:0004528,mean corpuscular hemoglobin concentration,NCBIGene:7040,TGFB1,2,4
+EFO:0010351,"cholesteryl ester measurement""@e",NCBIGene:7422,VEGFA,2,4
+EFO:0010351,"cholesteryl ester measurement""@e",NCBIGene:405,ARNT,2,4
+EFO:0004838,calcium measurement,NCBIGene:2149,F2R,2,4
+EFO:0004838,calcium measurement,NCBIGene:405,ARNT,2,4
+EFO:0004765,visceral adipose tissue measurement,NCBIGene:7422,VEGFA,2,4
+EFO:0008591,free cholesterol measurement,NCBIGene:405,ARNT,2,4
+EFO:0004792,plasminogen activator inhibitor 1 measurement,NCBIGene:2147,F2,2,4
+EFO:0004840,cortical thickness,NCBIGene:7422,VEGFA,2,4
+EFO:0004840,cortical thickness,NCBIGene:3956,LGALS1,2,4
+EFO:0003923,bone density,NCBIGene:4088,SMAD3,2,4
+MONDO:0013600,insomnia,NCBIGene:4763,NF1,2,4
+MONDO:0013600,insomnia,NCBIGene:7422,VEGFA,2,4
+EFO:0007785,femoral neck bone mineral density,NCBIGene:6696,SPP1,2,4
+EFO:0007785,femoral neck bone mineral density,NCBIGene:1499,CTNNB1,2,4
+EFO:0007785,femoral neck bone mineral density,NCBIGene:2147,F2,2,4
+EFO:0008378,mosquito bite reaction size measurement,NCBIGene:2247,FGF2,2,4
+EFO:0009946,low density lipoprotein triglyceride measurement,NCBIGene:4864,NPC1,2,4
+EFO:0004639,phospholipid measurement,NCBIGene:405,ARNT,2,4
+EFO:0004630,factor VIII measurement,NCBIGene:6927,HNF1A,2,4
+EFO:0020944,"cholesteryl esters:total lipids ratio""@e",NCBIGene:405,ARNT,2,4
+EFO:0010067,corneal resistance factor,NCBIGene:1593,CYP27A1,2,4
+EFO:0004694,factor XI measurement,NCBIGene:4088,SMAD3,2,4
+EFO:0004694,factor XI measurement,NCBIGene:6927,HNF1A,2,4
+EFO:0004761,uric acid measurement,NCBIGene:6696,SPP1,2,4
+MONDO:0005575,colorectal cancer,NCBIGene:4313,MMP2,1,4
+MONDO:0005575,colorectal cancer,NCBIGene:4088,SMAD3,1,4
+MONDO:0005575,colorectal cancer,NCBIGene:183,AGT,1,4
+MONDO:0005265,inflammatory bowel disease,NCBIGene:4088,SMAD3,1,4
+MONDO:0005265,inflammatory bowel disease,NCBIGene:6772,STAT1,1,4
+MONDO:0005301,multiple sclerosis,NCBIGene:6772,STAT1,1,4
+MONDO:0005301,multiple sclerosis,NCBIGene:3569,IL6,1,4
+MONDO:0005301,multiple sclerosis,NCBIGene:405,ARNT,1,4
+MONDO:0005399,venous thromboembolism,NCBIGene:5328,PLAU,1,4
+MONDO:0005399,venous thromboembolism,NCBIGene:5314,PKHD1,1,4
+MONDO:0005399,venous thromboembolism,NCBIGene:2149,F2R,1,4
+MONDO:0004975,Alzheimer disease,NCBIGene:4864,NPC1,1,4
+MONDO:0004975,Alzheimer disease,NCBIGene:2149,F2R,1,4
+MONDO:0004975,Alzheimer disease,NCBIGene:2147,F2,1,4
+MONDO:0004975,Alzheimer disease,NCBIGene:183,AGT,1,4
+MONDO:0005416,"osteoarthritis, knee",NCBIGene:7040,TGFB1,1,4
+MONDO:0005416,"osteoarthritis, knee",NCBIGene:4088,SMAD3,1,4
+MONDO:0005416,"osteoarthritis, knee",NCBIGene:7422,VEGFA,1,4
+MONDO:0005416,"osteoarthritis, knee",NCBIGene:4763,NF1,1,4
+MONDO:0006629,"osteoarthritis, hip",NCBIGene:7040,TGFB1,1,4
+MONDO:0006629,"osteoarthritis, hip",NCBIGene:1535,CYBA,1,4
+MONDO:0006629,"osteoarthritis, hip",NCBIGene:4763,NF1,1,4
+MONDO:0011565,metabolic syndrome X,NCBIGene:4864,NPC1,1,4
+MONDO:0011565,metabolic syndrome X,NCBIGene:6927,HNF1A,1,4
+MONDO:0011565,metabolic syndrome X,NCBIGene:7422,VEGFA,1,4
+MONDO:0005488,adolescent idiopathic scoliosis,NCBIGene:1490,CCN2,1,4
+MONDO:0005488,adolescent idiopathic scoliosis,NCBIGene:1499,CTNNB1,1,4
+MONDO:0005002,chronic obstructive pulmonary disease,NCBIGene:5328,PLAU,1,4
+MONDO:0005002,chronic obstructive pulmonary disease,NCBIGene:4088,SMAD3,1,4
+MONDO:0005002,chronic obstructive pulmonary disease,NCBIGene:6927,HNF1A,1,4
+EFO:0008354,cognitive function measurement,NCBIGene:5314,PKHD1,1,4
+EFO:0008354,cognitive function measurement,NCBIGene:3956,LGALS1,1,4
+EFO:0008354,cognitive function measurement,NCBIGene:1499,CTNNB1,1,4
+EFO:0008354,cognitive function measurement,NCBIGene:4864,NPC1,1,4
+EFO:0005213,central corneal thickness,NCBIGene:1593,CYP27A1,1,4
+EFO:0005213,central corneal thickness,NCBIGene:6696,SPP1,1,4
+EFO:0005213,central corneal thickness,NCBIGene:1277,COL1A1,1,4
+EFO:0008595,intermediate density lipoprotein measurement,NCBIGene:7422,VEGFA,1,4
+EFO:0008595,intermediate density lipoprotein measurement,NCBIGene:1593,CYP27A1,1,4
+EFO:0004584,mean platelet volume,NCBIGene:405,ARNT,1,4
+EFO:0020946,"phospholipids:total lipids ratio""@e",NCBIGene:1593,CYP27A1,1,4
+EFO:0004531,urate measurement,NCBIGene:7057,THBS1,1,4
+EFO:0004528,mean corpuscular hemoglobin concentration,NCBIGene:2149,F2R,1,4
+EFO:0010351,"cholesteryl ester measurement""@e",NCBIGene:1593,CYP27A1,1,4
+EFO:0008317,very low density lipoprotein cholesterol measurement,NCBIGene:1593,CYP27A1,1,4
+EFO:0004838,calcium measurement,NCBIGene:213,ALB,1,4
+EFO:0004838,calcium measurement,NCBIGene:3082,HGF,1,4
+EFO:0004765,visceral adipose tissue measurement,NCBIGene:4864,NPC1,1,4
+EFO:0004765,visceral adipose tissue measurement,NCBIGene:5314,PKHD1,1,4
+EFO:0004765,visceral adipose tissue measurement,NCBIGene:1499,CTNNB1,1,4
+EFO:0007822,hair colour measurement,NCBIGene:6927,HNF1A,1,4
+EFO:0007822,hair colour measurement,NCBIGene:7040,TGFB1,1,4
+EFO:0007822,hair colour measurement,NCBIGene:5314,PKHD1,1,4
+EFO:0008591,free cholesterol measurement,NCBIGene:1593,CYP27A1,1,4
+EFO:0004792,plasminogen activator inhibitor 1 measurement,NCBIGene:2321,FLT1,1,4
+EFO:0004792,plasminogen activator inhibitor 1 measurement,NCBIGene:7040,TGFB1,1,4
+EFO:0004792,plasminogen activator inhibitor 1 measurement,NCBIGene:6927,HNF1A,1,4
+EFO:0004840,cortical thickness,NCBIGene:5314,PKHD1,1,4
+EFO:0004840,cortical thickness,NCBIGene:6772,STAT1,1,4
+EFO:0007005,free androgen index,NCBIGene:1593,CYP27A1,1,4
+EFO:0007005,free androgen index,NCBIGene:5972,REN,1,4
+EFO:0007005,free androgen index,NCBIGene:6927,HNF1A,1,4
+EFO:0007005,free androgen index,NCBIGene:4780,NFE2L2,1,4
+MONDO:0013600,insomnia,NCBIGene:4780,NFE2L2,1,4
+MONDO:0013600,insomnia,NCBIGene:1278,COL1A2,1,4
+EFO:0007785,femoral neck bone mineral density,NCBIGene:4088,SMAD3,1,4
+EFO:0004703,age at menarche,NCBIGene:1278,COL1A2,1,4
+EFO:0004703,age at menarche,NCBIGene:2321,FLT1,1,4
+EFO:0004703,age at menarche,NCBIGene:6927,HNF1A,1,4
+EFO:0004703,age at menarche,NCBIGene:5972,REN,1,4
+EFO:0008378,mosquito bite reaction size measurement,NCBIGene:3569,IL6,1,4
+EFO:0008378,mosquito bite reaction size measurement,NCBIGene:5972,REN,1,4
+EFO:0008378,mosquito bite reaction size measurement,NCBIGene:5328,PLAU,1,4
+EFO:0010701,"mean reticulocyte volume""@e",NCBIGene:5244,ABCB4,1,4
+EFO:0010701,"mean reticulocyte volume""@e",NCBIGene:1356,CP,1,4
+EFO:0010701,"mean reticulocyte volume""@e",NCBIGene:405,ARNT,1,4
+EFO:0010701,"mean reticulocyte volume""@e",NCBIGene:2149,F2R,1,4
+EFO:0008328,chronotype measurement,NCBIGene:4864,NPC1,1,4
+EFO:0008328,chronotype measurement,NCBIGene:2147,F2,1,4
+EFO:0008328,chronotype measurement,NCBIGene:1269,CNR2,1,4
+EFO:0008328,chronotype measurement,NCBIGene:405,ARNT,1,4
+EFO:0009946,low density lipoprotein triglyceride measurement,NCBIGene:4088,SMAD3,1,4
+EFO:0009946,low density lipoprotein triglyceride measurement,NCBIGene:5314,PKHD1,1,4
+EFO:0009946,low density lipoprotein triglyceride measurement,NCBIGene:7422,VEGFA,1,4
+EFO:0004639,phospholipid measurement,NCBIGene:7422,VEGFA,1,4
+EFO:0004639,phospholipid measurement,NCBIGene:1593,CYP27A1,1,4
+EFO:0004630,factor VIII measurement,NCBIGene:7040,TGFB1,1,4
+EFO:0004630,factor VIII measurement,NCBIGene:2321,FLT1,1,4
+EFO:0004630,factor VIII measurement,NCBIGene:4088,SMAD3,1,4
+EFO:0020944,"cholesteryl esters:total lipids ratio""@e",NCBIGene:6927,HNF1A,1,4
+EFO:0020944,"cholesteryl esters:total lipids ratio""@e",NCBIGene:1593,CYP27A1,1,4
+EFO:0010067,corneal resistance factor,NCBIGene:6696,SPP1,1,4
+EFO:0004300,longevity,NCBIGene:6772,STAT1,1,4
+EFO:0004300,longevity,NCBIGene:3569,IL6,1,4
+EFO:0004300,longevity,NCBIGene:6927,HNF1A,1,4
+EFO:0004300,longevity,NCBIGene:5314,PKHD1,1,4
+EFO:0007800,body fat percentage,NCBIGene:7422,VEGFA,1,4
+EFO:0007800,body fat percentage,NCBIGene:5314,PKHD1,1,4
+EFO:0007800,body fat percentage,NCBIGene:4088,SMAD3,1,4
+EFO:0004468,glucose measurement,NCBIGene:2147,F2,1,4
+EFO:0004468,glucose measurement,NCBIGene:6927,HNF1A,1,4
+EFO:0004468,glucose measurement,NCBIGene:405,ARNT,1,4
+EFO:0004694,factor XI measurement,NCBIGene:2321,FLT1,1,4
+EFO:0004694,factor XI measurement,NCBIGene:7040,TGFB1,1,4
+EFO:0022196,"body surface area""@e",NCBIGene:2247,FGF2,1,4
+EFO:0022196,"body surface area""@e",NCBIGene:1499,CTNNB1,1,4
+EFO:0022196,"body surface area""@e",NCBIGene:4088,SMAD3,1,4
+EFO:0022196,"body surface area""@e",NCBIGene:7040,TGFB1,1,4
+EFO:0004761,uric acid measurement,NCBIGene:7057,THBS1,1,4
+EFO:0004761,uric acid measurement,NCBIGene:6927,HNF1A,1,4
+EFO:0004631,vitamin D measurement,NCBIGene:1717,DHCR7,31,3
+EFO:0004631,vitamin D measurement,NCBIGene:120227,CYP2R1,25,3
+EFO:0007991,eosinophil percentage of leukocytes,NCBIGene:4088,SMAD3,13,3
+EFO:0004533,alkaline phosphatase measurement,NCBIGene:6927,HNF1A,9,3
+EFO:0803317,gluteofemoral adipose tissue measurement,NCBIGene:7422,VEGFA,7,3
+EFO:0004533,alkaline phosphatase measurement,NCBIGene:4763,NF1,6,3
+MONDO:0002009,major depressive disorder,NCBIGene:6927,HNF1A,5,3
+MONDO:0005090,schizophrenia,NCBIGene:6927,HNF1A,5,3
+MONDO:0005083,psoriasis,NCBIGene:5328,PLAU,4,3
+EFO:0005782,age-related hearing impairment,NCBIGene:3956,LGALS1,4,3
+EFO:0004741,blood urea nitrogen measurement,NCBIGene:6927,HNF1A,4,3
+EFO:0004627,IGF-1 measurement,NCBIGene:6927,HNF1A,4,3
+EFO:0006781,coffee consumption measurement,NCBIGene:405,ARNT,4,3
+EFO:0006340,mean arterial pressure,NCBIGene:1499,CTNNB1,4,3
+EFO:0010155,taste liking measurement,NCBIGene:4864,NPC1,4,3
+MONDO:0005083,psoriasis,NCBIGene:4088,SMAD3,3,3
+MONDO:0001384,myopia,NCBIGene:2321,FLT1,3,3
+EFO:0020945,"free cholesterol:total lipids ratio""@e",NCBIGene:7422,VEGFA,3,3
+EFO:0020945,"free cholesterol:total lipids ratio""@e",NCBIGene:6927,HNF1A,3,3
+EFO:0020947,"triglycerides:total lipids ratio""@e",NCBIGene:7422,VEGFA,3,3
+MONDO:0000723,stutter disorder,NCBIGene:1269,CNR2,3,3
+EFO:0010576,"liver fibrosis measurement""@e",NCBIGene:2149,F2R,3,3
+EFO:0004568,serum non-albumin protein measurement,NCBIGene:3569,IL6,3,3
+EFO:0009768,glutamine measurement,NCBIGene:6772,STAT1,3,3
+EFO:0008007,age at assessment,NCBIGene:183,AGT,3,3
+MONDO:0005306,ankylosing spondylitis,NCBIGene:4088,SMAD3,3,3
+EFO:0007701,spine bone mineral density,NCBIGene:1499,CTNNB1,3,3
+MONDO:0005346,gallstones,NCBIGene:5244,ABCB4,2,3
+MONDO:0005346,gallstones,NCBIGene:6927,HNF1A,2,3
+MONDO:0005090,schizophrenia,NCBIGene:2147,F2,2,3
+MONDO:0018646,sclerosing cholangitis,NCBIGene:4088,SMAD3,2,3
+MONDO:0018646,sclerosing cholangitis,NCBIGene:5328,PLAU,2,3
+MONDO:0001384,myopia,NCBIGene:7046,TGFBR1,2,3
+MONDO:0001384,myopia,NCBIGene:1499,CTNNB1,2,3
+EFO:0005782,age-related hearing impairment,NCBIGene:4313,MMP2,2,3
+EFO:0004533,alkaline phosphatase measurement,NCBIGene:6696,SPP1,2,3
+EFO:0007991,eosinophil percentage of leukocytes,NCBIGene:1269,CNR2,2,3
+EFO:0008343,sex interaction measurement,NCBIGene:7422,VEGFA,2,3
+EFO:0008343,sex interaction measurement,NCBIGene:2149,F2R,2,3
+EFO:0009931,Agents acting on the renin-angiotensin system use measurement,NCBIGene:183,AGT,2,3
+EFO:0004873,cytokine measurement,NCBIGene:5244,ABCB4,2,3
+EFO:0004568,serum non-albumin protein measurement,NCBIGene:405,ARNT,2,3
+EFO:0005110,fatty acid measurement,NCBIGene:7422,VEGFA,2,3
+EFO:0009260,non-melanoma skin carcinoma,NCBIGene:1535,CYBA,2,3
+EFO:0006340,mean arterial pressure,NCBIGene:183,AGT,2,3
+EFO:0004995,lean body mass,NCBIGene:1499,CTNNB1,2,3
+MONDO:0005306,ankylosing spondylitis,NCBIGene:5328,PLAU,2,3
+EFO:0005653,serum metabolite measurement,NCBIGene:6927,HNF1A,2,3
+EFO:0008377,mosquito bite reaction itch intensity measurement,NCBIGene:5972,REN,2,3
+EFO:0005210,brain connectivity measurement,NCBIGene:3082,HGF,2,3
+MONDO:0002009,major depressive disorder,NCBIGene:3569,IL6,1,3
+MONDO:0002009,major depressive disorder,NCBIGene:408,ARRB1,1,3
+MONDO:0005346,gallstones,NCBIGene:7422,VEGFA,1,3
+MONDO:0005083,psoriasis,NCBIGene:6347,CCL2,1,3
+MONDO:0005090,schizophrenia,NCBIGene:4864,NPC1,1,3
+MONDO:0005349,otosclerosis,NCBIGene:7040,TGFB1,1,3
+MONDO:0005349,otosclerosis,NCBIGene:4088,SMAD3,1,3
+MONDO:0005349,otosclerosis,NCBIGene:6696,SPP1,1,3
+MONDO:0018646,sclerosing cholangitis,NCBIGene:6347,CCL2,1,3
+MONDO:0005258,autism spectrum disorder,NCBIGene:2147,F2,1,3
+MONDO:0005258,autism spectrum disorder,NCBIGene:3956,LGALS1,1,3
+MONDO:0005258,autism spectrum disorder,NCBIGene:1499,CTNNB1,1,3
+EFO:0005782,age-related hearing impairment,NCBIGene:4088,SMAD3,1,3
+EFO:0004631,vitamin D measurement,NCBIGene:405,ARNT,1,3
+EFO:0004741,blood urea nitrogen measurement,NCBIGene:7422,VEGFA,1,3
+EFO:0004741,blood urea nitrogen measurement,NCBIGene:5972,REN,1,3
+EFO:0007991,eosinophil percentage of leukocytes,NCBIGene:3569,IL6,1,3
+EFO:0020945,"free cholesterol:total lipids ratio""@e",NCBIGene:1593,CYP27A1,1,3
+EFO:0008343,sex interaction measurement,NCBIGene:4763,NF1,1,3
+EFO:0007978,red blood cell density measurement,NCBIGene:5314,PKHD1,1,3
+EFO:0007978,red blood cell density measurement,NCBIGene:1593,CYP27A1,1,3
+EFO:0007978,red blood cell density measurement,NCBIGene:1535,CYBA,1,3
+EFO:0020947,"triglycerides:total lipids ratio""@e",NCBIGene:1593,CYP27A1,1,3
+EFO:0020947,"triglycerides:total lipids ratio""@e",NCBIGene:6927,HNF1A,1,3
+EFO:0003924,hair color,NCBIGene:1535,CYBA,1,3
+EFO:0003924,hair color,NCBIGene:7040,TGFB1,1,3
+EFO:0003924,hair color,NCBIGene:5314,PKHD1,1,3
+MONDO:0000723,stutter disorder,NCBIGene:6927,HNF1A,1,3
+MONDO:0000723,stutter disorder,NCBIGene:6772,STAT1,1,3
+EFO:0009931,Agents acting on the renin-angiotensin system use measurement,NCBIGene:7422,VEGFA,1,3
+EFO:0009931,Agents acting on the renin-angiotensin system use measurement,NCBIGene:5314,PKHD1,1,3
+EFO:0004327,electrocardiography,NCBIGene:5328,PLAU,1,3
+EFO:0004327,electrocardiography,NCBIGene:7040,TGFB1,1,3
+EFO:0004327,electrocardiography,NCBIGene:4088,SMAD3,1,3
+EFO:0010576,"liver fibrosis measurement""@e",NCBIGene:7040,TGFB1,1,3
+EFO:0010576,"liver fibrosis measurement""@e",NCBIGene:6927,HNF1A,1,3
+EFO:0004873,cytokine measurement,NCBIGene:4780,NFE2L2,1,3
+EFO:0004873,cytokine measurement,NCBIGene:1278,COL1A2,1,3
+EFO:0004568,serum non-albumin protein measurement,NCBIGene:4088,SMAD3,1,3
+EFO:0004627,IGF-1 measurement,NCBIGene:1593,CYP27A1,1,3
+EFO:0004627,IGF-1 measurement,NCBIGene:4088,SMAD3,1,3
+EFO:0005110,fatty acid measurement,NCBIGene:1593,CYP27A1,1,3
+EFO:0005110,fatty acid measurement,NCBIGene:6927,HNF1A,1,3
+EFO:0007996,eosinophil percentage of granulocytes,NCBIGene:4088,SMAD3,1,3
+EFO:0007996,eosinophil percentage of granulocytes,NCBIGene:3569,IL6,1,3
+EFO:0007996,eosinophil percentage of granulocytes,NCBIGene:1269,CNR2,1,3
+EFO:0006781,coffee consumption measurement,NCBIGene:6696,SPP1,1,3
+EFO:0006781,coffee consumption measurement,NCBIGene:1535,CYBA,1,3
+EFO:0009260,non-melanoma skin carcinoma,NCBIGene:405,ARNT,1,3
+EFO:0009260,non-melanoma skin carcinoma,NCBIGene:2147,F2,1,3
+EFO:0006340,mean arterial pressure,NCBIGene:5314,PKHD1,1,3
+EFO:0803318,visceral:abdominal adipose tissue ratio measurement,NCBIGene:4780,NFE2L2,1,3
+EFO:0803318,visceral:abdominal adipose tissue ratio measurement,NCBIGene:7422,VEGFA,1,3
+EFO:0803318,visceral:abdominal adipose tissue ratio measurement,NCBIGene:6927,HNF1A,1,3
+EFO:0009768,glutamine measurement,NCBIGene:5972,REN,1,3
+EFO:0009768,glutamine measurement,NCBIGene:6927,HNF1A,1,3
+EFO:0009932,HMG CoA reductase inhibitor use measurement,NCBIGene:4088,SMAD3,1,3
+EFO:0009932,HMG CoA reductase inhibitor use measurement,NCBIGene:7422,VEGFA,1,3
+EFO:0009932,HMG CoA reductase inhibitor use measurement,NCBIGene:6927,HNF1A,1,3
+EFO:0008007,age at assessment,NCBIGene:1278,COL1A2,1,3
+EFO:0008007,age at assessment,NCBIGene:7422,VEGFA,1,3
+EFO:0004995,lean body mass,NCBIGene:6696,SPP1,1,3
+EFO:0004995,lean body mass,NCBIGene:2247,FGF2,1,3
+EFO:0004791,tissue plasminogen activator measurement,NCBIGene:6927,HNF1A,1,3
+EFO:0004791,tissue plasminogen activator measurement,NCBIGene:7040,TGFB1,1,3
+EFO:0004791,tissue plasminogen activator measurement,NCBIGene:2321,FLT1,1,3
+EFO:0010155,taste liking measurement,NCBIGene:6772,STAT1,1,3
+EFO:0010155,taste liking measurement,NCBIGene:5314,PKHD1,1,3
+MONDO:0005306,ankylosing spondylitis,NCBIGene:6347,CCL2,1,3
+EFO:0803317,gluteofemoral adipose tissue measurement,NCBIGene:2247,FGF2,1,3
+EFO:0803317,gluteofemoral adipose tissue measurement,NCBIGene:1593,CYP27A1,1,3
+EFO:0005653,serum metabolite measurement,NCBIGene:2147,F2,1,3
+EFO:0005653,serum metabolite measurement,NCBIGene:5244,ABCB4,1,3
+EFO:0008377,mosquito bite reaction itch intensity measurement,NCBIGene:2247,FGF2,1,3
+EFO:0008377,mosquito bite reaction itch intensity measurement,NCBIGene:5328,PLAU,1,3
+EFO:0005210,brain connectivity measurement,NCBIGene:7422,VEGFA,1,3
+EFO:0005210,brain connectivity measurement,NCBIGene:3956,LGALS1,1,3
+EFO:0007701,spine bone mineral density,NCBIGene:4088,SMAD3,1,3
+EFO:0007701,spine bone mineral density,NCBIGene:6696,SPP1,1,3
+EFO:0006939,cup-to-disc ratio measurement,NCBIGene:3956,LGALS1,10,2
+MONDO:0005133,endometriosis,NCBIGene:4088,SMAD3,9,2
+EFO:0003762,vitamin D deficiency,NCBIGene:1717,DHCR7,6,2
+MONDO:0005393,gout,NCBIGene:6696,SPP1,5,2
+EFO:0010972,blood phosphate measurement,NCBIGene:1490,CCN2,5,2
+MONDO:0005130,celiac disease,NCBIGene:6772,STAT1,4,2
+MONDO:0005388,primary biliary cholangitis,NCBIGene:6772,STAT1,4,2
+MONDO:0005271,allergic disease,NCBIGene:4088,SMAD3,4,2
+MONDO:0004980,atopic eczema,NCBIGene:4088,SMAD3,4,2
+EFO:0010554,"retinal vasculature measurement""@e",NCBIGene:2321,FLT1,4,2
+EFO:0010638,atopic asthma,NCBIGene:4088,SMAD3,4,2
+MONDO:0005420,hypothyroidism,NCBIGene:7422,VEGFA,4,2
+EFO:0004749,CCL2 measurement,NCBIGene:405,ARNT,4,2
+MONDO:0005150,age-related macular degeneration,NCBIGene:7046,TGFBR1,3,2
+MONDO:0005192,exocrine pancreatic carcinoma,NCBIGene:6927,HNF1A,3,2
+MONDO:0005041,glaucoma,NCBIGene:5314,PKHD1,3,2
+EFO:0007778,urinary albumin to creatinine ratio,NCBIGene:7040,TGFB1,3,2
+MONDO:0011786,allergic rhinitis,NCBIGene:4088,SMAD3,3,2
+EFO:0007997,granulocyte percentage of myeloid white cells,NCBIGene:2321,FLT1,3,2
+EFO:0007013,aspirin use measurement,NCBIGene:7040,TGFB1,3,2
+EFO:0010554,"retinal vasculature measurement""@e",NCBIGene:1499,CTNNB1,3,2
+EFO:0004352,mortality,NCBIGene:3956,LGALS1,3,2
+EFO:0006939,cup-to-disc ratio measurement,NCBIGene:1277,COL1A1,3,2
+EFO:0020943,"cholesterol:total lipids ratio""@e",NCBIGene:7422,VEGFA,3,2
+EFO:0003913,angina pectoris,NCBIGene:7040,TGFB1,3,2
+MONDO:0005420,hypothyroidism,NCBIGene:6772,STAT1,3,2
+EFO:0009925,Antithrombotic agent use measurement,NCBIGene:7040,TGFB1,3,2
+EFO:0005140,autoimmune disease,NCBIGene:6772,STAT1,3,2
+MONDO:0005150,age-related macular degeneration,NCBIGene:7422,VEGFA,2,2
+HP:0000790,Hematuria,NCBIGene:7040,TGFB1,2,2
+MONDO:0005252,heart failure,NCBIGene:4864,NPC1,2,2
+MONDO:0019434,systemic-onset juvenile idiopathic arthritis,NCBIGene:6772,STAT1,2,2
+MONDO:0019433,oligoarticular juvenile idiopathic arthritis,NCBIGene:6772,STAT1,2,2
+MONDO:0005393,gout,NCBIGene:3082,HGF,2,2
+EFO:0008002,physical activity measurement,NCBIGene:7422,VEGFA,2,2
+EFO:0004732,lipoprotein measurement,NCBIGene:405,ARNT,2,2
+MONDO:0004980,atopic eczema,NCBIGene:7046,TGFBR1,2,2
+EFO:0003762,vitamin D deficiency,NCBIGene:120227,CYP2R1,2,2
+EFO:0005680,omega-6 polyunsaturated fatty acid measurement,NCBIGene:6927,HNF1A,2,2
+MONDO:0019432,rheumatoid factor-negative juvenile idiopathic arthritis,NCBIGene:6772,STAT1,2,2
+EFO:0005674,white matter microstructure measurement,NCBIGene:3082,HGF,2,2
+EFO:0020690,protein-glutamine gamma-glutamyltransferase e measurement,NCBIGene:1717,DHCR7,2,2
+EFO:0009927,Antihypertensive use measurement,NCBIGene:4864,NPC1,2,2
+EFO:0009924,Drugs used in diabetes use measurement,NCBIGene:6927,HNF1A,2,2
+MONDO:0005087,respiratory system disorder,NCBIGene:4088,SMAD3,2,2
+MONDO:0005087,respiratory system disorder,NCBIGene:7046,TGFBR1,2,2
+MONDO:0004948,B-cell chronic lymphocytic leukemia,NCBIGene:4088,SMAD3,2,2
+MONDO:0005365,hearing loss disorder,NCBIGene:3956,LGALS1,2,2
+EFO:0005093,hip circumference,NCBIGene:4864,NPC1,2,2
+EFO:0008393,reaction time measurement,NCBIGene:2147,F2,2,2
+EFO:0009104,hyperuricemia,NCBIGene:6696,SPP1,2,2
+EFO:0010934,"aspartate aminotransferase to alanine aminotransferase ratio""@e",NCBIGene:5244,ABCB4,2,2
+MONDO:0005138,lung carcinoma,NCBIGene:5244,ABCB4,2,2
+MONDO:0005417,wet macular degeneration,NCBIGene:7422,VEGFA,1,2
+MONDO:0005417,wet macular degeneration,NCBIGene:7046,TGFBR1,1,2
+MONDO:0005140,ovarian carcinoma,NCBIGene:4313,MMP2,1,2
+MONDO:0005140,ovarian carcinoma,NCBIGene:6927,HNF1A,1,2
+MONDO:0005147,type 1 diabetes mellitus,NCBIGene:6772,STAT1,1,2
+MONDO:0005147,type 1 diabetes mellitus,NCBIGene:4088,SMAD3,1,2
+HP:0000790,Hematuria,NCBIGene:183,AGT,1,2
+MONDO:0005252,heart failure,NCBIGene:7040,TGFB1,1,2
+MONDO:0005192,exocrine pancreatic carcinoma,NCBIGene:183,AGT,1,2
+MONDO:0005133,endometriosis,NCBIGene:6927,HNF1A,1,2
+MONDO:0019434,systemic-onset juvenile idiopathic arthritis,NCBIGene:3569,IL6,1,2
+MONDO:0015486,keratoconus,NCBIGene:1277,COL1A1,1,2
+MONDO:0015486,keratoconus,NCBIGene:4088,SMAD3,1,2
+MONDO:0005130,celiac disease,NCBIGene:4088,SMAD3,1,2
+MONDO:0005623,autoimmune thyroid disease,NCBIGene:6772,STAT1,1,2
+MONDO:0005623,autoimmune thyroid disease,NCBIGene:4088,SMAD3,1,2
+MONDO:0013209,non-alcoholic fatty liver disease,NCBIGene:6927,HNF1A,1,2
+MONDO:0013209,non-alcoholic fatty liver disease,NCBIGene:7422,VEGFA,1,2
+MONDO:0005484,colorectal adenoma,NCBIGene:7040,TGFB1,1,2
+MONDO:0005484,colorectal adenoma,NCBIGene:4088,SMAD3,1,2
+MONDO:0002155,cholecystitis,NCBIGene:5244,ABCB4,1,2
+MONDO:0002155,cholecystitis,NCBIGene:6927,HNF1A,1,2
+MONDO:0005361,eosinophilic esophagitis,NCBIGene:4088,SMAD3,1,2
+MONDO:0005361,eosinophilic esophagitis,NCBIGene:5328,PLAU,1,2
+MONDO:0011429,juvenile idiopathic arthritis,NCBIGene:6772,STAT1,1,2
+MONDO:0011429,juvenile idiopathic arthritis,NCBIGene:4088,SMAD3,1,2
+MONDO:0019433,oligoarticular juvenile idiopathic arthritis,NCBIGene:3569,IL6,1,2
+MONDO:0005105,melanoma,NCBIGene:405,ARNT,1,2
+MONDO:0005105,melanoma,NCBIGene:5972,REN,1,2
+MONDO:0005041,glaucoma,NCBIGene:3956,LGALS1,1,2
+EFO:0007778,urinary albumin to creatinine ratio,NCBIGene:7422,VEGFA,1,2
+MONDO:0011786,allergic rhinitis,NCBIGene:7046,TGFBR1,1,2
+EFO:0008002,physical activity measurement,NCBIGene:4864,NPC1,1,2
+EFO:0010972,blood phosphate measurement,NCBIGene:6927,HNF1A,1,2
+MONDO:0005388,primary biliary cholangitis,NCBIGene:1717,DHCR7,1,2
+EFO:0008592,high density lipoprotein particle size measurement,NCBIGene:7422,VEGFA,1,2
+EFO:0008592,high density lipoprotein particle size measurement,NCBIGene:6927,HNF1A,1,2
+MONDO:0005271,allergic disease,NCBIGene:6927,HNF1A,1,2
+EFO:0008594,very low density lipoprotein particle size measurement,NCBIGene:7422,VEGFA,1,2
+EFO:0008594,very low density lipoprotein particle size measurement,NCBIGene:1593,CYP27A1,1,2
+EFO:0004732,lipoprotein measurement,NCBIGene:6927,HNF1A,1,2
+EFO:0004505,telomere length,NCBIGene:408,ARRB1,1,2
+EFO:0004505,telomere length,NCBIGene:7431,VIM,1,2
+EFO:0007997,granulocyte percentage of myeloid white cells,NCBIGene:6347,CCL2,1,2
+EFO:0007013,aspirin use measurement,NCBIGene:2321,FLT1,1,2
+EFO:0803325,RS-warfarin measurement,NCBIGene:5328,PLAU,1,2
+EFO:0803325,RS-warfarin measurement,NCBIGene:2149,F2R,1,2
+MONDO:0011057,cerebrovascular disorder,NCBIGene:2147,F2,1,2
+MONDO:0011057,cerebrovascular disorder,NCBIGene:6927,HNF1A,1,2
+EFO:0005409,fat body mass,NCBIGene:1535,CYBA,1,2
+EFO:0005409,fat body mass,NCBIGene:405,ARNT,1,2
+EFO:0007710,cognitive decline measurement,NCBIGene:3082,HGF,1,2
+EFO:0007710,cognitive decline measurement,NCBIGene:5244,ABCB4,1,2
+EFO:0005680,omega-6 polyunsaturated fatty acid measurement,NCBIGene:1593,CYP27A1,1,2
+EFO:0004723,coronary artery calcification,NCBIGene:1490,CCN2,1,2
+EFO:0004723,coronary artery calcification,NCBIGene:183,AGT,1,2
+EFO:0010299,"corpus callosum volume measurement""@e",NCBIGene:3082,HGF,1,2
+EFO:0010299,"corpus callosum volume measurement""@e",NCBIGene:1277,COL1A1,1,2
+EFO:1000789,"osteoarthritis, hand",NCBIGene:6696,SPP1,1,2
+EFO:1000789,"osteoarthritis, hand",NCBIGene:2147,F2,1,2
+EFO:0004352,mortality,NCBIGene:120227,CYP2R1,1,2
+MONDO:0019432,rheumatoid factor-negative juvenile idiopathic arthritis,NCBIGene:3569,IL6,1,2
+MONDO:0005302,"attention deficit hyperactivity disorder, inattentive type",NCBIGene:1499,CTNNB1,1,2
+MONDO:0005302,"attention deficit hyperactivity disorder, inattentive type",NCBIGene:3956,LGALS1,1,2
+EFO:0005043,cardiac troponin T measurement,NCBIGene:4763,NF1,1,2
+EFO:0005043,cardiac troponin T measurement,NCBIGene:5328,PLAU,1,2
+EFO:0005674,white matter microstructure measurement,NCBIGene:1593,CYP27A1,1,2
+EFO:0007885,JT interval,NCBIGene:6772,STAT1,1,2
+EFO:0007885,JT interval,NCBIGene:405,ARNT,1,2
+EFO:0004467,insulin measurement,NCBIGene:7422,VEGFA,1,2
+EFO:0004467,insulin measurement,NCBIGene:6927,HNF1A,1,2
+EFO:0004730,hormone measurement,NCBIGene:7422,VEGFA,1,2
+EFO:0004730,hormone measurement,NCBIGene:4313,MMP2,1,2
+EFO:0803367,"antihyperlipidemic drug use measurement""@e",NCBIGene:1593,CYP27A1,1,2
+EFO:0803367,"antihyperlipidemic drug use measurement""@e",NCBIGene:6927,HNF1A,1,2
+EFO:0010638,atopic asthma,NCBIGene:6927,HNF1A,1,2
+EFO:0004502,adiponectin measurement,NCBIGene:7422,VEGFA,1,2
+EFO:0004502,adiponectin measurement,NCBIGene:120227,CYP2R1,1,2
+EFO:0020690,protein-glutamine gamma-glutamyltransferase e measurement,NCBIGene:6927,HNF1A,1,2
+MONDO:0005276,dental caries,NCBIGene:4088,SMAD3,1,2
+MONDO:0005276,dental caries,NCBIGene:1593,CYP27A1,1,2
+EFO:0010583,"alpha fetoprotein measurement""@e",NCBIGene:213,ALB,1,2
+EFO:0010583,"alpha fetoprotein measurement""@e",NCBIGene:6927,HNF1A,1,2
+EFO:0007927,schizophrenia symptom severity measurement,NCBIGene:4763,NF1,1,2
+EFO:0007927,schizophrenia symptom severity measurement,NCBIGene:2149,F2R,1,2
+EFO:0004341,body fat distribution,NCBIGene:3956,LGALS1,1,2
+EFO:0004341,body fat distribution,NCBIGene:4088,SMAD3,1,2
+EFO:0009927,Antihypertensive use measurement,NCBIGene:183,AGT,1,2
+EFO:0009924,Drugs used in diabetes use measurement,NCBIGene:4763,NF1,1,2
+EFO:0006807,linoleic acid measurement,NCBIGene:6927,HNF1A,1,2
+EFO:0006807,linoleic acid measurement,NCBIGene:1593,CYP27A1,1,2
+MONDO:0004948,B-cell chronic lymphocytic leukemia,NCBIGene:1490,CCN2,1,2
+MONDO:0005365,hearing loss disorder,NCBIGene:2149,F2R,1,2
+EFO:0020943,"cholesterol:total lipids ratio""@e",NCBIGene:1593,CYP27A1,1,2
+EFO:0003913,angina pectoris,NCBIGene:2321,FLT1,1,2
+EFO:0009795,serum urea measurement,NCBIGene:1593,CYP27A1,1,2
+EFO:0009795,serum urea measurement,NCBIGene:6927,HNF1A,1,2
+EFO:0006525,cigarettes per day measurement,NCBIGene:4864,NPC1,1,2
+EFO:0006525,cigarettes per day measurement,NCBIGene:2147,F2,1,2
+EFO:0005093,hip circumference,NCBIGene:4763,NF1,1,2
+EFO:0005271,sleep duration,NCBIGene:7422,VEGFA,1,2
+EFO:0005271,sleep duration,NCBIGene:6927,HNF1A,1,2
+EFO:0010699,"diffuse plaque measurement""@e",NCBIGene:408,ARRB1,1,2
+EFO:0010699,"diffuse plaque measurement""@e",NCBIGene:120227,CYP2R1,1,2
+MONDO:0007079,alcohol dependence,NCBIGene:408,ARRB1,1,2
+MONDO:0007079,alcohol dependence,NCBIGene:3569,IL6,1,2
+EFO:0004578,homocysteine measurement,NCBIGene:6927,HNF1A,1,2
+EFO:0004578,homocysteine measurement,NCBIGene:7431,VIM,1,2
+EFO:0803324,R-warfarin measurement,NCBIGene:2149,F2R,1,2
+EFO:0803324,R-warfarin measurement,NCBIGene:120227,CYP2R1,1,2
+EFO:0010520,"peptide measurement""@e",NCBIGene:2321,FLT1,1,2
+EFO:0010520,"peptide measurement""@e",NCBIGene:1535,CYBA,1,2
+EFO:0007994,neutrophil percentage of granulocytes,NCBIGene:6772,STAT1,1,2
+EFO:0007994,neutrophil percentage of granulocytes,NCBIGene:3569,IL6,1,2
+EFO:0005134,amino acid measurement,NCBIGene:7040,TGFB1,1,2
+EFO:0005134,amino acid measurement,NCBIGene:5328,PLAU,1,2
+EFO:0010298,"corpus callosum posterior volume measurement""@e",NCBIGene:1277,COL1A1,1,2
+EFO:0010298,"corpus callosum posterior volume measurement""@e",NCBIGene:3082,HGF,1,2
+EFO:0009925,Antithrombotic agent use measurement,NCBIGene:2321,FLT1,1,2
+EFO:0007990,neutrophil percentage of leukocytes,NCBIGene:2247,FGF2,1,2
+EFO:0007990,neutrophil percentage of leukocytes,NCBIGene:1535,CYBA,1,2
+EFO:0005140,autoimmune disease,NCBIGene:4088,SMAD3,1,2
+EFO:0008393,reaction time measurement,NCBIGene:7422,VEGFA,1,2
+MONDO:0004891,hyperopia,NCBIGene:2321,FLT1,1,2
+MONDO:0004891,hyperopia,NCBIGene:1717,DHCR7,1,2
+EFO:0009104,hyperuricemia,NCBIGene:7422,VEGFA,1,2
+EFO:0008006,skin aging measurement,NCBIGene:2247,FGF2,1,2
+EFO:0008006,skin aging measurement,NCBIGene:1593,CYP27A1,1,2
+HP:0002315,Headache,NCBIGene:2147,F2,1,2
+HP:0002315,Headache,NCBIGene:3082,HGF,1,2
+HP:0000023,Inguinal hernia,NCBIGene:5328,PLAU,1,2
+HP:0000023,Inguinal hernia,NCBIGene:4088,SMAD3,1,2
+EFO:1002040,Corneal astigmatism,NCBIGene:4088,SMAD3,1,2
+EFO:1002040,Corneal astigmatism,NCBIGene:7422,VEGFA,1,2
+EFO:0004749,CCL2 measurement,NCBIGene:6347,CCL2,1,2
+EFO:0010934,"aspartate aminotransferase to alanine aminotransferase ratio""@e",NCBIGene:7431,VIM,1,2
+MONDO:0001383,degenerative myopia,NCBIGene:4763,NF1,1,2
+MONDO:0001383,degenerative myopia,NCBIGene:183,AGT,1,2
+MONDO:0005138,lung carcinoma,NCBIGene:3569,IL6,1,2
+MONDO:0004872,hemorrhoid,NCBIGene:4088,SMAD3,1,2
+MONDO:0004872,hemorrhoid,NCBIGene:4763,NF1,1,2
+EFO:0008539,vitamin D dietary intake measurement,NCBIGene:120227,CYP2R1,1,2
+EFO:0008539,vitamin D dietary intake measurement,NCBIGene:1717,DHCR7,1,2
+EFO:0010226,"phosphatidylcholine measurement""@e",NCBIGene:6927,HNF1A,1,2
+EFO:0010226,"phosphatidylcholine measurement""@e",NCBIGene:213,ALB,1,2
+EFO:0008596,chylomicron measurement,NCBIGene:7422,VEGFA,1,2
+EFO:0008596,chylomicron measurement,NCBIGene:1593,CYP27A1,1,2
+EFO:0009959,diverticular disease,NCBIGene:4763,NF1,1,2
+EFO:0009959,diverticular disease,NCBIGene:4088,SMAD3,1,2
+EFO:0010092,bitter alcoholic beverage consumption measurement,NCBIGene:4763,NF1,1,2
+EFO:0010092,bitter alcoholic beverage consumption measurement,NCBIGene:4864,NPC1,1,2
+EFO:1001492,atrophic macular degeneration,NCBIGene:7422,VEGFA,1,2
+EFO:1001492,atrophic macular degeneration,NCBIGene:7046,TGFBR1,1,2
+EFO:0010158,sugar consumption measurement,NCBIGene:5314,PKHD1,1,2
+EFO:0010158,sugar consumption measurement,NCBIGene:6927,HNF1A,1,2
+EFO:0008054,C-C motif chemokine 7 measurement,NCBIGene:6347,CCL2,16,1
+MONDO:0008383,rheumatoid arthritis,NCBIGene:6772,STAT1,15,1
+EFO:0006903,hepatocyte growth factor measurement,NCBIGene:3082,HGF,12,1
+EFO:0008055,C-C motif chemokine 8 measurement,NCBIGene:6347,CCL2,10,1
+EFO:0010118,sphingomyelin measurement,NCBIGene:6927,HNF1A,7,1
+MONDO:0010030,Sjogren syndrome,NCBIGene:6772,STAT1,6,1
+EFO:0008025,angiotensinogen measurement,NCBIGene:183,AGT,6,1
+MONDO:0005100,systemic sclerosis,NCBIGene:6772,STAT1,6,1
+EFO:0801499,corneodesmosin measurement,NCBIGene:6347,CCL2,6,1
+EFO:0005245,body weight loss,NCBIGene:5314,PKHD1,6,1
+EFO:0007987,granulocyte count,NCBIGene:4864,NPC1,6,1
+EFO:0010222,"ceramide measurement""@e",NCBIGene:6927,HNF1A,6,1
+EFO:0008073,cathepsin S measurement,NCBIGene:405,ARNT,5,1
+MONDO:0005012,cutaneous melanoma,NCBIGene:405,ARNT,5,1
+EFO:0004748,thyroid stimulating hormone measurement,NCBIGene:7422,VEGFA,5,1
+EFO:0010803,urokinase-type plasminogen activator measurement,NCBIGene:5328,PLAU,5,1
+EFO:1002011,adult onset asthma,NCBIGene:4088,SMAD3,5,1
+EFO:0008015,afamin measurement,NCBIGene:213,ALB,5,1
+HP:0003076,Glycosuria,NCBIGene:6927,HNF1A,4,1
+MONDO:0005338,open-angle glaucoma,NCBIGene:5314,PKHD1,4,1
+MONDO:0004907,alopecia,NCBIGene:1593,CYP27A1,4,1
+EFO:0000266,aortic stenosis,NCBIGene:3569,IL6,4,1
+EFO:0600088,lymphocyte:monocyte ratio,NCBIGene:2321,FLT1,4,1
+EFO:0009934,Immunosuppressant use measurement,NCBIGene:6772,STAT1,4,1
+EFO:0009769,histidine measurement,NCBIGene:1356,CP,4,1
+MONDO:0005277,migraine disorder,NCBIGene:7040,TGFB1,4,1
+EFO:0010091,tea consumption measurement,NCBIGene:405,ARNT,4,1
+MONDO:0021167,myositis disease,NCBIGene:6772,STAT1,3,1
+MONDO:0005463,aortic valve calcification,NCBIGene:3569,IL6,3,1
+EFO:0021500,"cortex volume change measurement""@e",NCBIGene:183,AGT,3,1
+EFO:0803377,"metachronous colorectal adenoma""@e",NCBIGene:1490,CCN2,3,1
+EFO:0008126,extracellular matrix protein 1 measurement,NCBIGene:405,ARNT,3,1
+EFO:0007791,rheumatoid factor seropositivity measurement,NCBIGene:6772,STAT1,3,1
+EFO:0008446,platelet-to-lymphocyte ratio,NCBIGene:2149,F2R,3,1
+MONDO:0011438,acne,NCBIGene:1593,CYP27A1,3,1
+MONDO:0005326,sunburn,NCBIGene:1535,CYBA,3,1
+EFO:0802184,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8 measurement",NCBIGene:7040,TGFB1,3,1
+EFO:0007006,depressive symptom measurement,NCBIGene:6927,HNF1A,3,1
+EFO:0007702,hip bone mineral density,NCBIGene:1499,CTNNB1,3,1
+EFO:0803319,visceral:gluteofemoral adipose tissue ratio measurement,NCBIGene:7422,VEGFA,3,1
+EFO:0010616,"renin measurement""@e",NCBIGene:5972,REN,3,1
+EFO:0007578,blood copper measurement,NCBIGene:1356,CP,3,1
+EFO:0009459,ACPA-positive rheumatoid arthritis,NCBIGene:6772,STAT1,3,1
+EFO:0010932,urokinase plasminogen activator surface receptor measurement,NCBIGene:5328,PLAU,3,1
+EFO:0005413,joint damage measurement,NCBIGene:7422,VEGFA,3,1
+MONDO:0005081,preeclampsia,NCBIGene:2321,FLT1,2,1
+MONDO:0012672,cholelithiasis,NCBIGene:5244,ABCB4,2,1
+MONDO:0004992,cancer,NCBIGene:405,ARNT,2,1
+MONDO:0016264,autoimmune hepatitis,NCBIGene:6772,STAT1,2,1
+MONDO:0021253,gallbladder neoplasm,NCBIGene:5244,ABCB4,2,1
+MONDO:0005097,squamous cell lung carcinoma,NCBIGene:4763,NF1,2,1
+MONDO:0002447,endometrial carcinoma,NCBIGene:4763,NF1,2,1
+MONDO:0015075,thyroid gland carcinoma,NCBIGene:4088,SMAD3,2,1
+MONDO:0005339,androgenetic alopecia,NCBIGene:1593,CYP27A1,2,1
+MONDO:0019636,"renal agenesis, unilateral",NCBIGene:3082,HGF,2,1
+EFO:0008129,fibroblast growth factor 2 measurement,NCBIGene:2247,FGF2,2,1
+EFO:0008122,eotaxin measurement,NCBIGene:6347,CCL2,2,1
+EFO:0004324,body weights and measures,NCBIGene:4864,NPC1,2,1
+EFO:0021536,"irritable bowel syndrome symptom measurement""@e",NCBIGene:1356,CP,2,1
+EFO:0010116,choline measurement,NCBIGene:6927,HNF1A,2,1
+EFO:0004999,N-glycan measurement,NCBIGene:6927,HNF1A,2,1
+EFO:0020397,galectin-2 measurement,NCBIGene:3956,LGALS1,2,1
+EFO:0801488,collagen alpha-1(XV) chain measurement,NCBIGene:7046,TGFBR1,2,1
+EFO:0020768,thrombin measurement,NCBIGene:2147,F2,2,1
+EFO:0803075,signal-transducing adaptor protein 1 measurement,NCBIGene:213,ALB,2,1
+MONDO:0004745,priapism,NCBIGene:7422,VEGFA,2,1
+EFO:0006953,family history of lung cancer,NCBIGene:4763,NF1,2,1
+EFO:0010626,"placenta growth factor measurement""@e",NCBIGene:2321,FLT1,2,1
+EFO:0801817,"n-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 2 measurement",NCBIGene:7040,TGFB1,2,1
+EFO:0005671,smoking behaviour measurement,NCBIGene:7431,VIM,2,1
+EFO:0009941,Inhalant adrenergic use measurement,NCBIGene:4088,SMAD3,2,1
+MONDO:0005486,tooth agenesis,NCBIGene:1593,CYP27A1,2,1
+EFO:0801430,BRICHOS domain-containing protein 5 measurement,NCBIGene:3956,LGALS1,2,1
+EFO:0010130,health study participation,NCBIGene:4864,NPC1,2,1
+EFO:0800023,alpha-hydroxyisovalerate measurement,NCBIGene:6927,HNF1A,2,1
+EFO:0007864,sulfate measurement,NCBIGene:6927,HNF1A,2,1
+EFO:0021169,stachydrine measurement,NCBIGene:5314,PKHD1,2,1
+EFO:0008115,ectonucleoside triphosphate diphosphohydrolase 5 measurement,NCBIGene:6927,HNF1A,2,1
+EFO:0009929,Beta blocking agent use measurement,NCBIGene:183,AGT,2,1
+EFO:0803320,abdominal:gluteofemoral adipose tissue ratio measurement,NCBIGene:7422,VEGFA,2,1
+EFO:0004632,nevus count,NCBIGene:405,ARNT,2,1
+EFO:0009933,Thyroid preparation use measurement,NCBIGene:6772,STAT1,2,1
+EFO:0009718,peak expiratory flow,NCBIGene:5328,PLAU,2,1
+EFO:0010071,cardiac troponin I measurement,NCBIGene:5328,PLAU,2,1
+EFO:1001017,limited scleroderma,NCBIGene:6772,STAT1,2,1
+EFO:0020095,"trochanter bone mineral density""@e",NCBIGene:1499,CTNNB1,2,1
+EFO:1001494,psoriasis vulgaris,NCBIGene:5328,PLAU,2,1
+EFO:0803328,RS-6-hydroxywarfarin measurement,NCBIGene:4313,MMP2,2,1
+EFO:0008457,cannabis dependence measurement,NCBIGene:1356,CP,2,1
+EFO:0020847,"vascular endothelial growth factor A, isoform 121 measurement",NCBIGene:7422,VEGFA,2,1
+EFO:0008381,total cortical area measurement,NCBIGene:7057,THBS1,2,1
+MONDO:0002436,nasal disorder,NCBIGene:4088,SMAD3,2,1
+EFO:0009460,ACPA-negative rheumatoid arthritis,NCBIGene:6772,STAT1,2,1
+EFO:0007869,wellbeing measurement,NCBIGene:6927,HNF1A,2,1
+EFO:0004465,fasting blood glucose measurement,NCBIGene:2147,F2,2,1
+EFO:0010114,citrate measurement,NCBIGene:6927,HNF1A,2,1
+EFO:0005036,platelet measurement,NCBIGene:3569,IL6,2,1
+EFO:0010815,remnant cholesterol measurement,NCBIGene:6927,HNF1A,2,1
+EFO:0800027,2-hydroxy-3-methylvalerate measurement,NCBIGene:6927,HNF1A,2,1
+EFO:0006940,optic cup area measurement,NCBIGene:3956,LGALS1,2,1
+EFO:0021001,cysteine-glutathione disulfide measurement,NCBIGene:6927,HNF1A,2,1
+EFO:0020941,"lysophosphatidylcholine 15:0 measurement""@e",NCBIGene:5314,PKHD1,2,1
+EFO:0007657,cerebrospinal fluid clusterin measurement,NCBIGene:3569,IL6,2,1
+MONDO:0007256,hepatocellular carcinoma,NCBIGene:6772,STAT1,1,1
+MONDO:0009693,plasma cell myeloma,NCBIGene:3082,HGF,1,1
+MONDO:0005298,osteoporosis,NCBIGene:1499,CTNNB1,1,1
+MONDO:0005046,immune system disorder,NCBIGene:6772,STAT1,1,1
+MONDO:0005178,osteoarthritis,NCBIGene:7040,TGFB1,1,1
+MONDO:0005342,IgA glomerulonephritis,NCBIGene:7040,TGFB1,1,1
+MONDO:0011122,obesity disorder,NCBIGene:4864,NPC1,1,1
+MONDO:0017991,Takayasu arteritis,NCBIGene:3569,IL6,1,1
+MONDO:0011385,intervertebral disc degenerative disorder,NCBIGene:4088,SMAD3,1,1
+MONDO:0005386,peripheral arterial disease,NCBIGene:3569,IL6,1,1
+MONDO:0007699,Hashimoto thyroiditis,NCBIGene:6772,STAT1,1,1
+MONDO:0006031,chronic rhinosinusitis,NCBIGene:4088,SMAD3,1,1
+MONDO:0008661,vitiligo,NCBIGene:6772,STAT1,1,1
+MONDO:0043693,alcoholic liver diseases,NCBIGene:6927,HNF1A,1,1
+MONDO:0005494,triple-negative breast carcinoma,NCBIGene:6927,HNF1A,1,1
+MONDO:0006502,acute respiratory distress syndrome,NCBIGene:2321,FLT1,1,1
+MONDO:0005131,cervical carcinoma,NCBIGene:7431,VIM,1,1
+MONDO:0006314,nasal cavity polyp,NCBIGene:405,ARNT,1,1
+MONDO:0005091,severe acute respiratory syndrome,NCBIGene:1269,CNR2,1,1
+MONDO:0005965,spinal stenosis,NCBIGene:4088,SMAD3,1,1
+MONDO:0005375,nasopharyngeal neoplasm,NCBIGene:4088,SMAD3,1,1
+MONDO:0005473,temporomandibular joint disorder,NCBIGene:1277,COL1A1,1,1
+MONDO:0005341,skin basal cell carcinoma,NCBIGene:405,ARNT,1,1
+HP:0001977,Abnormal thrombosis,NCBIGene:2147,F2,1,1
+EFO:0004874,memory performance,NCBIGene:7057,THBS1,1,1
+EFO:0004462,PR interval,NCBIGene:1278,COL1A2,1,1
+EFO:0801413,beta-arrestin-1 measurement,NCBIGene:408,ARRB1,1,1
+EFO:0022164,phospholipids in IDL measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0007806,total cholesterol change measurement,NCBIGene:3956,LGALS1,1,1
+EFO:0005106,body composition measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0010949,"upper face morphology measurement""@e",NCBIGene:213,ALB,1,1
+MONDO:0001336,familial hyperlipidemia,NCBIGene:7422,VEGFA,1,1
+EFO:0007660,neuroticism measurement,NCBIGene:4864,NPC1,1,1
+EFO:0004830,caudate nucleus volume,NCBIGene:2247,FGF2,1,1
+EFO:0009961,Insulinogenic index measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0022190,phospholipids in large HDL measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0004750,interleukin 10 measurement,NCBIGene:7422,VEGFA,1,1
+MONDO:0005145,sporadic amyotrophic lateral sclerosis,NCBIGene:4864,NPC1,1,1
+EFO:0010120,fasting blood glucose change measurement,NCBIGene:7422,VEGFA,1,1
+MONDO:0005279,pulmonary embolism,NCBIGene:2147,F2,1,1
+MONDO:0005300,chronic kidney disease,NCBIGene:7422,VEGFA,1,1
+EFO:0010139,fish consumption measurement,NCBIGene:4763,NF1,1,1
+EFO:0006900,endothelial growth factor measurement,NCBIGene:3082,HGF,1,1
+EFO:0004766,subcutaneous adipose tissue measurement,NCBIGene:1356,CP,1,1
+EFO:0005230,anxiety,NCBIGene:4763,NF1,1,1
+EFO:0021487,"cryptic phenotype measurement""@e",NCBIGene:7040,TGFB1,1,1
+EFO:0010982,3-hydroxybutyrate measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0004342,waist circumference,NCBIGene:4864,NPC1,1,1
+EFO:0010487,"glutamate measurement""@e",NCBIGene:6927,HNF1A,1,1
+EFO:0022158,triglycerides in small HDL measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0600070,interleukin-6 gene expression measurement,NCBIGene:183,AGT,1,1
+MONDO:0006875,ocular hypertension,NCBIGene:4864,NPC1,1,1
+EFO:0022145,triglycerides in small VLDL measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0010804,vascular endothelial growth factor A measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0008300,TNF-related apoptosis-inducing ligand measurement,NCBIGene:5244,ABCB4,1,1
+EFO:0001072,memory impairment,NCBIGene:183,AGT,1,1
+EFO:0009749,age at first sexual intercourse measurement,NCBIGene:2147,F2,1,1
+EFO:0022157,free cholesterol in large HDL measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0020570,microtubule-associated protein tau measurement,NCBIGene:7040,TGFB1,1,1
+EFO:0009942,Glucocorticoid use measurement,NCBIGene:4088,SMAD3,1,1
+EFO:0006946,behavioural disinhibition measurement,NCBIGene:4313,MMP2,1,1
+MONDO:0021400,polyp of colon,NCBIGene:4088,SMAD3,1,1
+MONDO:0001627,dementia,NCBIGene:1717,DHCR7,1,1
+MONDO:0005345,hypospadias,NCBIGene:4313,MMP2,1,1
+EFO:0005139,serum ceruloplasmin measurement,NCBIGene:1356,CP,1,1
+EFO:0020932,"galectin-1 measurement""@e",NCBIGene:3956,LGALS1,1,1
+EFO:0009770,leucine measurement,NCBIGene:6696,SPP1,1,1
+EFO:0021473,phosphatidylcholine 36:0 measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0803360,"SARS-CoV-2 antibody measurement""@e",NCBIGene:6927,HNF1A,1,1
+MONDO:0007147,obstructive sleep apnea syndrome,NCBIGene:408,ARRB1,1,1
+EFO:0005058,tyrosine measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0802578,glycosyltransferase-like protein LARGE1 measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0004582,liver enzyme measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0008137,galectin-3 measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0007898,alpha-tocopherol measurement,NCBIGene:3082,HGF,1,1
+EFO:0007576,blood cadmium measurement,NCBIGene:4088,SMAD3,1,1
+EFO:0009588,"feeling \""fed-up\"" measurement",NCBIGene:1535,CYBA,1,1
+EFO:0008339,fear of medical pain measurement,NCBIGene:4763,NF1,1,1
+EFO:0803335,RS-10-hydroxywarfarin to RS-warfarin ratio measurement,NCBIGene:5972,REN,1,1
+EFO:0004345,corneal topography,NCBIGene:4088,SMAD3,1,1
+EFO:0009101,age at first birth measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0600067,mastiha supplement exposure measurement,NCBIGene:183,AGT,1,1
+EFO:0007636,attention function measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0009597,feeling nervous measurement,NCBIGene:4763,NF1,1,1
+MONDO:0016064,cleft palate,NCBIGene:5314,PKHD1,1,1
+EFO:0004682,QT interval,NCBIGene:405,ARNT,1,1
+EFO:0009332,executive function measurement,NCBIGene:6696,SPP1,1,1
+EFO:0010119,omega-3 polyunsaturated fatty acid measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0009263,nicotine withdrawal symptom count,NCBIGene:4864,NPC1,1,1
+EFO:0007667,lobe attachment,NCBIGene:1593,CYP27A1,1,1
+EFO:0009930,Calcium channel blocker use measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0007659,APOE carrier status,NCBIGene:1717,DHCR7,1,1
+EFO:0007680,gait measurement,NCBIGene:4864,NPC1,1,1
+EFO:0005415,serum alpha-1-antitrypsin measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0010733,"polyunsaturated fatty acid measurement""@e",NCBIGene:6927,HNF1A,1,1
+EFO:0004832,optic disc size measurement,NCBIGene:3956,LGALS1,1,1
+EFO:0022175,total lipids in large VLDL,NCBIGene:7422,VEGFA,1,1
+EFO:0008083,chemokine (C-X-C motif) ligand 1 measurement,NCBIGene:213,ALB,1,1
+EFO:0007845,lip morphology measurement,NCBIGene:4088,SMAD3,1,1
+EFO:1001516,ovarian serous carcinoma,NCBIGene:6927,HNF1A,1,1
+EFO:0010469,"carnitine measurement""@e",NCBIGene:6927,HNF1A,1,1
+EFO:0008000,peak insulin response measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0006796,very long-chain saturated fatty acid measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0003917,premature birth,NCBIGene:7040,TGFB1,1,1
+MONDO:0043424,digestive system infectious disorder,NCBIGene:4864,NPC1,1,1
+EFO:0004624,prostate specific antigen measurement,NCBIGene:7422,VEGFA,1,1
+MONDO:0015517,common variable immunodeficiency,NCBIGene:4088,SMAD3,1,1
+EFO:0022156,total lipids in very small VLDL measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0005666,thyroid peroxidase antibody measurement,NCBIGene:183,AGT,1,1
+EFO:0020283,complement factor D measurement,NCBIGene:183,AGT,1,1
+MONDO:0018076,tuberculosis,NCBIGene:4313,MMP2,1,1
+EFO:0021776,"osteopontin measurement""@e",NCBIGene:6696,SPP1,1,1
+EFO:0003949,eye color,NCBIGene:213,ALB,1,1
+EFO:0007858,eye morphology measurement,NCBIGene:5244,ABCB4,1,1
+EFO:0801714,interleukin-1 receptor-like 2 measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0803326,S-6-hydroxywarfarin measurement,NCBIGene:4763,NF1,1,1
+MONDO:0007886,uterine corpus leiomyoma,NCBIGene:6347,CCL2,1,1
+EFO:0021537,"transferrin glycosylation measurement""@e",NCBIGene:6927,HNF1A,1,1
+EFO:0004307,glucose tolerance test,NCBIGene:6927,HNF1A,1,1
+EFO:0009048,Intrahepatic cholestasis of pregnancy,NCBIGene:5244,ABCB4,1,1
+EFO:0007843,nose morphology measurement,NCBIGene:5314,PKHD1,1,1
+EFO:0005128,albumin:globulin ratio measurement,NCBIGene:3569,IL6,1,1
+EFO:0004575,e-selectin measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0009253,Immature Reticulocyte Fraction Measurement,NCBIGene:4864,NPC1,1,1
+EFO:0007905,joint hypermobility measurement,NCBIGene:1535,CYBA,1,1
+MONDO:0004747,cleft lip,NCBIGene:5314,PKHD1,1,1
+EFO:0004279,suntan,NCBIGene:1535,CYBA,1,1
+EFO:0022181,free cholesterol in IDL measurement,NCBIGene:6927,HNF1A,1,1
+MONDO:0005380,osteonecrosis,NCBIGene:1356,CP,1,1
+EFO:0007860,ADHD symptom measurement,NCBIGene:5328,PLAU,1,1
+EFO:0008536,anti-centromere-antibody-positive systemic scleroderma,NCBIGene:6772,STAT1,1,1
+EFO:0030082,polygenic risk score,NCBIGene:2147,F2,1,1
+EFO:0800427,behenoyl dihydrosphingomyelin (d18:0/22:0) measurement,NCBIGene:6927,HNF1A,1,1
+MONDO:0005076,periodontitis,NCBIGene:5972,REN,1,1
+EFO:0009926,Vasodilators used in cardiac diseases use measurement,NCBIGene:2321,FLT1,1,1
+EFO:0005130,thyroxine measurement,NCBIGene:4313,MMP2,1,1
+EFO:0005524,large artery stroke,NCBIGene:2321,FLT1,1,1
+MONDO:0005364,Graves disease,NCBIGene:6772,STAT1,1,1
+MONDO:0018469,pulmonary non-tuberculous mycobacterial infection,NCBIGene:2321,FLT1,1,1
+HP:0012735,Cough,NCBIGene:7046,TGFBR1,1,1
+EFO:0008415,susceptibility to hepatitis A infection measurement,NCBIGene:1277,COL1A1,1,1
+HP:0020110,Bone fracture,NCBIGene:7046,TGFBR1,1,1
+EFO:0010151,soluble triggering receptor expressed on myeloid cells 2 measurement,NCBIGene:1356,CP,1,1
+EFO:0009658,adverse effect,NCBIGene:5972,REN,1,1
+EFO:0005127,cancer biomarker measurement,NCBIGene:213,ALB,1,1
+EFO:0007826,aggressive behaviour measurement,NCBIGene:5328,PLAU,1,1
+EFO:0004517,arterial stiffness measurement,NCBIGene:1269,CNR2,1,1
+EFO:0004742,renal system measurement,NCBIGene:6696,SPP1,1,1
+EFO:0009775,threonine measurement,NCBIGene:6772,STAT1,1,1
+EFO:0004326,heart rate,NCBIGene:405,ARNT,1,1
+EFO:0008463,glucagon measurement,NCBIGene:120227,CYP2R1,1,1
+EFO:0003926,neuropsychological test,NCBIGene:2321,FLT1,1,1
+EFO:0005937,longitudinal BMI measurement,NCBIGene:1499,CTNNB1,1,1
+MONDO:0005530,opiate dependence,NCBIGene:1277,COL1A1,1,1
+EFO:0803333,R-6-hydroxywarfarin to R-warfarin ratio measurement,NCBIGene:5972,REN,1,1
+EFO:0010295,"corpus callosum anterior volume measurement""@e",NCBIGene:1277,COL1A1,1,1
+MONDO:0019082,bullous pemphigoid,NCBIGene:1717,DHCR7,1,1
+EFO:0020692,prothrombin measurement,NCBIGene:2147,F2,1,1
+EFO:0008337,psychosis predisposition measurement,NCBIGene:5972,REN,1,1
+EFO:0007837,anti-citrullinated protein antibody seropositivity,NCBIGene:6772,STAT1,1,1
+EFO:0008204,left ventricular diastolic function measurement,NCBIGene:5328,PLAU,1,1
+MONDO:0008487,polycystic ovary syndrome,NCBIGene:2147,F2,1,1
+EFO:0007902,hepcidin:transferrin saturation ratio,NCBIGene:2321,FLT1,1,1
+EFO:0008037,BMI-adjusted fasting blood insulin measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0010336,"transverse temporal cortex volume measurement""@e",NCBIGene:3082,HGF,1,1
+EFO:0007959,fetal genotype effect measurement,NCBIGene:2321,FLT1,1,1
+EFO:0600044,kidney volume,NCBIGene:7422,VEGFA,1,1
+EFO:0005194,amyloid-beta measurement,NCBIGene:6772,STAT1,1,1
+EFO:0022110,"Sphingomyelin (d18:1/20:1, d18:2/20:0) measurement",NCBIGene:6927,HNF1A,1,1
+EFO:0800992,4-hydroxychlorothalonil measurement,NCBIGene:6696,SPP1,1,1
+EFO:0010059,cerebral microbleeds,NCBIGene:5244,ABCB4,1,1
+HP:0000360,Tinnitus,NCBIGene:5314,PKHD1,1,1
+EFO:0008380,perceived unattractiveness to mosquitos measurement,NCBIGene:2247,FGF2,1,1
+EFO:0006797,neurofibrillary tangles measurement,NCBIGene:2321,FLT1,1,1
+MONDO:0005045,hypertrophic cardiomyopathy,NCBIGene:2147,F2,1,1
+EFO:0009087,non-typhoidal Salmonella bacteremia,NCBIGene:6772,STAT1,1,1
+EFO:0006944,systolic blood pressure change measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0020780,transforming growth factor beta-1 measurement,NCBIGene:7040,TGFB1,1,1
+EFO:0007824,hair shape measurement,NCBIGene:1593,CYP27A1,1,1
+EFO:0008174,interleukin 17 measurement,NCBIGene:2147,F2,1,1
+EFO:0600056,complement factor H-related protein 3 measurement,NCBIGene:5972,REN,1,1
+EFO:0005000,leptin measurement,NCBIGene:1269,CNR2,1,1
+EFO:0005940,psychotic symptoms,NCBIGene:1269,CNR2,1,1
+EFO:0020244,cathepsin L2 measurement,NCBIGene:6927,HNF1A,1,1
+MONDO:0008638,varicose disease,NCBIGene:1535,CYBA,1,1
+EFO:0006876,seasonality measurement,NCBIGene:120227,CYP2R1,1,1
+EFO:0007924,tonsillectomy risk measurement,NCBIGene:3569,IL6,1,1
+EFO:0021499,"cerebral white matter volume change measurement""@e",NCBIGene:1278,COL1A2,1,1
+EFO:0009367,glucose metabolism measurement,NCBIGene:4088,SMAD3,1,1
+EFO:0009458,alcohol use disorder measurement,NCBIGene:4763,NF1,1,1
+EFO:0003907,deep vein thrombosis,NCBIGene:2147,F2,1,1
+MONDO:0008054,juvenile dermatomyositis,NCBIGene:7046,TGFBR1,1,1
+HP:0002140,Ischemic stroke,NCBIGene:2147,F2,1,1
+MONDO:0003014,rhinitis,NCBIGene:4088,SMAD3,1,1
+EFO:1001870,late-onset Alzheimers disease,NCBIGene:2147,F2,1,1
+EFO:0010724,"lifestyle measurement""@e",NCBIGene:4864,NPC1,1,1
+EFO:0006831,acute insulin response measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0802856,peroxisomal carnitine O-octanoyltransferase measurement,NCBIGene:5244,ABCB4,1,1
+MONDO:0000358,orofacial cleft,NCBIGene:4763,NF1,1,1
+EFO:0021116,7-alpha-hydroxy-3-oxo-4-cholestenoate 7-Hoca measurement,NCBIGene:1593,CYP27A1,1,1
+EFO:0005426,autism spectrum disorder symptom,NCBIGene:1535,CYBA,1,1
+EFO:0007841,facial morphology measurement,NCBIGene:5314,PKHD1,1,1
+EFO:0005038,hair morphology,NCBIGene:1593,CYP27A1,1,1
+EFO:0007583,blood nickel measurement,NCBIGene:1277,COL1A1,1,1
+EFO:0800135,guanidinoacetate measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0008390,prothrombin time measurement,NCBIGene:2147,F2,1,1
+EFO:0006870,alpha wave measurement,NCBIGene:5244,ABCB4,1,1
+EFO:0004459,ferritin measurement,NCBIGene:7422,VEGFA,1,1
+MONDO:0004867,upper respiratory tract disorder,NCBIGene:4088,SMAD3,1,1
+EFO:0008487,lateral ventricle volume measurement,NCBIGene:3956,LGALS1,1,1
+EFO:0004725,metabolite measurement,NCBIGene:1593,CYP27A1,1,1
+EFO:0009284,chloride measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0022187,"monounsaturated fatty acids; 16:1, 18:1 measurement",NCBIGene:1593,CYP27A1,1,1
+EFO:0009323,alpha synuclein measurement,NCBIGene:183,AGT,1,1
+EFO:0803316,abdominal adipose tissue measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0010448,"3-hydroxyphenylacetic acid measurement""@e",NCBIGene:3569,IL6,1,1
+EFO:0007681,triglyceride change measurement,NCBIGene:6347,CCL2,1,1
+MONDO:0005096,squamous cell carcinoma,NCBIGene:405,ARNT,1,1
+EFO:0006319,HIV viral set point measurement,NCBIGene:6696,SPP1,1,1
+EFO:1001927,cutaneous squamous cell carcinoma,NCBIGene:405,ARNT,1,1
+EFO:0022178,triglycerides in large VLDL measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0007117,carotid artery intima media thickness,NCBIGene:2149,F2R,1,1
+EFO:0021283,X-12063 measurement,NCBIGene:4763,NF1,1,1
+EFO:0006321,antidepressant-induced dizziness,NCBIGene:3956,LGALS1,1,1
+EFO:0009700,visual perception measurement,NCBIGene:408,ARRB1,1,1
+EFO:0801688,immunoglobulin lambda-like polypeptide 1 measurement,NCBIGene:183,AGT,1,1
+EFO:0007967,blood osmolality measurement,NCBIGene:5314,PKHD1,1,1
+EFO:0008185,interleukin 5 measurement,NCBIGene:405,ARNT,1,1
+EFO:0010926,proteinase-activated receptor 1 measurement,NCBIGene:2149,F2R,1,1
+EFO:0010104,health literacy measurement,NCBIGene:3956,LGALS1,1,1
+MONDO:0020592,disorder of pharynx,NCBIGene:405,ARNT,1,1
+EFO:0007634,major depressive episode,NCBIGene:183,AGT,1,1
+EFO:0021604,Hypoxanthine measurement,NCBIGene:5314,PKHD1,1,1
+EFO:0008589,esterified cholesterol measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0008464,glucose-dependent insulinotropic peptide measurement,NCBIGene:405,ARNT,1,1
+EFO:0004762,vascular endothelial growth factor measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0022161,total lipids in IDL,NCBIGene:6927,HNF1A,1,1
+EFO:0020122,72 kda type IV collagenase measurement,NCBIGene:4313,MMP2,1,1
+EFO:0006794,cerebrospinal fluid biomarker measurement,NCBIGene:183,AGT,1,1
+EFO:0007627,airway imaging measurement,NCBIGene:1535,CYBA,1,1
+MONDO:0008277,stomach polyp,NCBIGene:7422,VEGFA,1,1
+EFO:0007817,sleep apnea measurement,NCBIGene:408,ARRB1,1,1
+EFO:0005059,acylcarnitine measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0009896,anti-thyroglobulin antibody measurement,NCBIGene:183,AGT,1,1
+EFO:0006941,grip strength measurement,NCBIGene:4864,NPC1,1,1
+MONDO:0005464,rhegmatogenous retinal detachment,NCBIGene:405,ARNT,1,1
+MONDO:0005483,chemotherapy-induced alopecia,NCBIGene:5244,ABCB4,1,1
+EFO:0004621,vitamin B6 measurement,NCBIGene:4088,SMAD3,1,1
+EFO:0006798,neuritic plaque measurement,NCBIGene:6927,HNF1A,1,1
+EFO:0008418,susceptibility to rubella infection measurement,NCBIGene:4088,SMAD3,1,1
+EFO:0006917,spontaneous preterm birth,NCBIGene:3082,HGF,1,1
+EFO:0021172,"1,3,7-trimethylurate measurement",NCBIGene:213,ALB,1,1
+EFO:0022155,triglycerides in medium VLDL measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0010546,"uridine measurement""@e",NCBIGene:6696,SPP1,1,1
+EFO:0022169,phospholipids in large VLDL measurement,NCBIGene:7422,VEGFA,1,1
+EFO:0008534,tryptophan measurement,NCBIGene:6696,SPP1,1,1
+EFO:0022189,total lipids in large HDL,NCBIGene:7422,VEGFA,1,1
+EFO:0020009,"ethylmalonate measurement""@e",NCBIGene:6927,HNF1A,1,1
+EFO:0010333,"temporal horn of lateral ventricle volume measurement""@e",NCBIGene:7046,TGFBR1,1,1
+EFO:0005112,gestational age,NCBIGene:3082,HGF,1,1
+EFO:0022108,"Sphingomyelin (d18:1/18:1, d18:2/18:0) measurement",NCBIGene:6927,HNF1A,1,1
+EFO:0010789,monocyte chemotactic protein-2 measurement,NCBIGene:6347,CCL2,1,1
